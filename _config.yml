@@ -10,7 +10,7 @@ title: The Matute Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of Daniel Matute.
-baseurl: ""
+baseurl: "/Matutelab/"
 url: ""
 
 include:

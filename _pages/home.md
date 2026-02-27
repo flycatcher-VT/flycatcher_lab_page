@@ -55,7 +55,7 @@ permalink: /
 
 
 
-**This is the lab page for the Daniel Matute lab at UNC Chapel Hill. it is currently under construction, so please bear with us :)**
+**This is the lab page for the Daniel Matute lab at UNC Chapel Hill. It is currently under construction, so please bear with us :)**
 
 If you would like to contact us, please email matute.unc@gmail.com. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
 

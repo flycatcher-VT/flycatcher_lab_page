@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Matute Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Matute Lab at UNC Chapel Hill."
 sitemap: false
 permalink: /
 ---

@@ -17,6 +17,9 @@ include:
   - .htaccess
   - _pages
 
+#theme settings 
+theme: jekyll-theme-minimal
+
 sass:
   sass_dir: _sass
 

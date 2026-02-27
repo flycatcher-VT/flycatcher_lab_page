@@ -7,9 +7,9 @@ permalink: /
 ---
 
 
-
-<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
+<!--
+ <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+     Menu 
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -18,9 +18,9 @@ permalink: /
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
-    </ol> -->
+    </ol> 
 
-    <!-- Items -->
+     Items 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
@@ -40,8 +40,9 @@ permalink: /
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>
-    </div>
-<!--   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    </div> 
+
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
@@ -49,14 +50,14 @@ permalink: /
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div> -->
+</div> 
+-->
 
 
 
+**This is the Lab page for the Daniel Matute lab at UNC Chapel Hill. it is currently under construction, so please bear with us :)**
 
-**This is the Lab page for Daniel Matute! it is currently under construction, so bear with us. **!**
-
-If you would like to Contact us, please email matutelab@gmail.com. If you would like to view our publications, please go to our [Google Scholar](https://superc2033.com/our-team/).
+If you would like to contact us, please email matute.unc@gmail.com. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
 
 
 

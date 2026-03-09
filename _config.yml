@@ -24,6 +24,8 @@ plugins:
 
 sass:
   sass_dir: _sass
+  variables:
+    navbar-bg-color: "#4B9CD3"
 
 # Conversion
 markdown: kramdown

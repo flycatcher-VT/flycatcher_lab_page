@@ -24,7 +24,7 @@ figcaption {
 /* Top navigation bar */
 
 .navbar-default {
-  background-color: #4B9CD3; /* Replace with your desired color, e.g., #007bff for blue */
+  background-color: $navbar-bg-color; /* Replace with your desired color, e.g., #007bff for blue */
 }
 
 p.byline {

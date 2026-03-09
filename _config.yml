@@ -26,6 +26,8 @@ sass:
   sass_dir: _sass
   variables:
     navbar-bg-color: "#4B9CD3"
+    navbar-text-color: "#000000"
+    navbar-text-hover-color: "#ffffff"
 
 # Conversion
 markdown: kramdown

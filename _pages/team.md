@@ -11,8 +11,12 @@ permalink: /team/
 <!--  
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+# page links to team member sections, insert/edit if there are changes
+[administrative support](#administrative-support),
+[master and bachelor students](#master-and-bachelor-students),
+[lab visitors](#lab-visitors)
 -->
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff),  [alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -78,6 +82,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
+<!--  Remove comment blocks to put lab member sections back in
+
+<br>email: <{{ member.email }}></i> 
 
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
@@ -91,7 +98,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} 
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -119,6 +126,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   </ul>
 </div>
 
+
+
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -131,7 +140,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+-->
 
 ## Alumni
 
@@ -166,6 +175,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+
+<!--
 ## Former visitors, BSc/ MSc students
 <div class="row">
 
@@ -191,6 +202,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
-
+-->
 
 

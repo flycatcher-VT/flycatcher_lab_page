@@ -24,16 +24,17 @@ figcaption {
 /* Top navigation bar */
 
 .navbar-default {
-  background-color: #4B9CD3; /* Replace with your desired color, e.g., #007bff for blue */
+  background-color: $background-color; /* Replace with your desired color, e.g., #007bff for blue */
 }
 
-.site-header nav a {
-  color: #161616; /* Example: Red color */
+.navbar-default .navbar-nav li a {
+  color: $nav-text-color;
 }
 
-.site-header nav a:hover {
-  color: #ffffff; /* Example: Green on hover */
+.navbar-default .navbar-nav li a:hover {
+  color: $nav-text-hover-color;
 }
+
 
 p.byline {
 	text-align: center;

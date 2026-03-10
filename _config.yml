@@ -22,6 +22,8 @@ sass:
   sass_dir: _sass
   variables:
     background-color: "#4B9CD3"
+    nav-text-color: "#000000"
+    nav-text-hover-color: "#ffffff"
    
 
 # Conversion

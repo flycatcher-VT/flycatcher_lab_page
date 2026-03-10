@@ -1,11 +1,47 @@
-#- name: Milan P Allan
-#  photo: Milan1.jpg
-#  info: Professor
-#  email: milan.allan@gmail.com
-#  number_educ: 5
- # education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
- # education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
- # education3: Postdoc Cornell
- # education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
- # education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+- name: Daniel Matute
+  photo: Daniel.png
+  info: Professor
+  email: dmatute@email.unc.edu
+  number_educ: 3
+  education1: Bachelors in Microbiology & Biology, Universidad de Los Andes, Columbia
+  education2: PhD in Ecology and Evolution, University of Chicago, Jerry Coyne Lab
+  education3: Postdoc ???
 
+- name: Victoria Sepulveda 
+  photo: Vicky.jpg
+  info: Senior Research Associate
+  email: vsepulve@email.unc.edu
+  number_educ: 3
+  education1: B.S. in Microbiology , Universidad de Los Andes, Columbia
+  education2: PhD in Microbiology Biology and Microbial Pathogenesis, University of Washington
+  education3: Postdoc, University of North Carolina, Chapel Hill, ??? Lab
+
+  - name: Patrick Kelly 
+  photo: patrick.jpg
+  info: Postdoctoral Research Associate
+  email: patk@email.unc.edu
+  number_educ: 3
+  education1: B.A. in Biology, Cornell College
+  education2: PhD in Ecology, Evolution, and Organismal Biology, University of Chapel Hill, Pfennig Lab
+  education3: Postdoc, NC State University, NSF Postdoctoral Research Fellow
+
+  - name: McKenna Sutherland 
+  photo: mckenna.jpg
+  info: Lab Manager, Drosophila 
+  email: mjsuth01@email.unc.edu
+  number_educ: 1
+  education1: B.S. in Psychology, University of Chapel Hill
+
+    - name: Jingbaoyi (Janet) Li 
+  photo: janet.jpg
+  info: Lab Manager, Fungal Pathogens
+  email: mjsuth01@email.unc.edu
+  number_educ: 1
+  education1: Bachelors in Biology & Neuroscience, University of Chapel Hill
+
+    - name: Oliver Kompathoum 
+  photo: oliver.jpg
+  info: Computational Biologist
+  email: okompath@email.unc.edu
+  number_educ: 1
+  education1: B.S. in Biology, Wake Forest University

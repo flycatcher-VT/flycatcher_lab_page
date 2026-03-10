@@ -18,12 +18,13 @@
 
 - name: Patrick Kelly 
   photo: patrick.jpg
-  info: Postdoctoral Research Associate
+  info: Postdoctoral Research Associate, 
   email: patk@email.unc.edu
-  number_educ: 3
+  number_educ: 4
   education1: B.A. in Biology, Cornell College
   education2: PhD in Ecology, Evolution, and Organismal Biology, University of Chapel Hill, Pfennig Lab
   education3: Postdoc, NC State University, NSF Postdoctoral Research Fellow
+  education4: Tri-Institutional Molecular Mycology and Pathogenesis Praining Program (NIH T32)
 
 - name: McKenna Sutherland 
   photo: mckenna.jpg

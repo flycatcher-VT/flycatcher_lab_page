@@ -16,7 +16,7 @@
   education2: PhD in Microbiology Biology and Microbial Pathogenesis, University of Washington
   education3: Postdoc, University of North Carolina, Chapel Hill, ??? Lab
 
-  - name: Patrick Kelly 
+- name: Patrick Kelly 
   photo: patrick.jpg
   info: Postdoctoral Research Associate
   email: patk@email.unc.edu
@@ -25,21 +25,21 @@
   education2: PhD in Ecology, Evolution, and Organismal Biology, University of Chapel Hill, Pfennig Lab
   education3: Postdoc, NC State University, NSF Postdoctoral Research Fellow
 
-  - name: McKenna Sutherland 
+- name: McKenna Sutherland 
   photo: mckenna.jpg
   info: Lab Manager, Drosophila 
   email: mjsuth01@email.unc.edu
   number_educ: 1
   education1: B.S. in Psychology, University of Chapel Hill
 
-    - name: Jingbaoyi (Janet) Li 
+- name: Jingbaoyi (Janet) Li 
   photo: janet.jpg
   info: Lab Manager, Fungal Pathogens
   email: mjsuth01@email.unc.edu
   number_educ: 1
   education1: Bachelors in Biology & Neuroscience, University of Chapel Hill
 
-    - name: Oliver Kompathoum 
+- name: Oliver Kompathoum 
   photo: oliver.jpg
   info: Computational Biologist
   email: okompath@email.unc.edu

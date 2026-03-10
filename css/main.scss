@@ -24,16 +24,19 @@ figcaption {
 /* Top navigation bar */
 
 .navbar-default {
-  background-color: $background-color; /* Replace with your desired color, e.g., #007bff for blue */
+  background-color: #4B9CD3; /* Replace with your desired color, e.g., #007bff for blue */
 }
 
+
+
 .navbar-default .navbar-nav li a {
-  color: $nav-text-color;
+  color: #242424;
 }
 
 .navbar-default .navbar-nav li a:hover {
-  color: $nav-text-hover-color;
+  color: #dadada;
 }
+
 
 
 p.byline {

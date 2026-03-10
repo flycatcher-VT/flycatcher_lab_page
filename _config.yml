@@ -17,17 +17,12 @@ include:
   - .htaccess
   - _pages
 
-#theme settings 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
 
 sass:
   sass_dir: _sass
   variables:
-    navbar-bg-color: "#4B9CD3"
-    navbar-text-color: "#000000"
-    navbar-text-hover-color: "#ffffff"
+    background-color: "#4B9CD3"
+   
 
 # Conversion
 markdown: kramdown

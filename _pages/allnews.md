@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Matute Lab at Leiden University."
+excerpt: "Matute Lab at UNC Chapel Hill."
 sitemap: false
 permalink: /allnews.html
 ---

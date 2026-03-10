@@ -16,7 +16,7 @@ permalink: /team/
 [master and bachelor students](#master-and-bachelor-students),
 [lab visitors](#lab-visitors)
 -->
-Jump to [Staff](#staff),[Undergraduate Researchers ](#undergraduate-researchers),  [Alumni](#alumni).
+Jump to [Staff](#staff), [Undergraduate Researchers ](#undergraduate-researchers),  [Alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}

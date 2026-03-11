@@ -12,11 +12,10 @@ We are an evolutionary biology lab located in the Genome Sciences Building at th
 
 Our lab is interested in evolutionary processes that contribute to **speciation**. Specifically, we use the genus *Drosophila* (fruit flies) to better understand how **hybrid incompatibilities** accumulate, and how these contribute to the development of species boundaries through inviable offspring. This often involves closely testing different combinations of fly lineages, extracting DNA, and using Next Generation Sequencing to generate genomic data for use bioinformatic and computational analyses.
 
-We arent just limited to *Drosophila*; Our lab also explores the **evolution of virulence** within dimorphic fungal pathogens through many model and non-model organisms such as *Histoplasma*,*Paracoccidioides*, and *Sporothrix*, among others. 
+We arent just limited to *Drosophila*; Our lab also explores the **evolution of virulence** within dimorphic fungal pathogens through many model and non-model organisms such as *Histoplasma*, *Paracoccidioides*, and *Sporothrix* among others. 
 
 <!-- Edit this if you would like to change the number of slides or images of the slides on the homepage-->
- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-     Menu 
+ <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > 
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -25,21 +24,21 @@ We arent just limited to *Drosophila*; Our lab also explores the **evolution of 
         <li data-target="#carousel" data-slide-to="4"></li>
     </ol> 
 
-     Items 
-    <div class="carousel-inner" markdown="0">
+     
+<div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/drosophila.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phylo.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phylo.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fungi.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fungi.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/species_boundaries.png" alt="Slide 4" />
-        </div>
-    </div> 
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/species_boundaries.jpg" alt="Slide 4" />
+    </div>
+ </div> 
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

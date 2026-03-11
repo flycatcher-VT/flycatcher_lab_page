@@ -48,6 +48,11 @@ figcaption {
   border-color: #4B9CD3; 
 }
 
+.navbar-toggle:focus {
+  outline: 2px solid #4B9CD3; /* Custom color and thickness */
+  outline-offset: 2px; /* Space between outline and element */
+}
+
 /* change if u want to change color of toggle icon when hovered */
 .navbar-default .navbar-toggle:hover .icon-bar {
   background-color: #dadada; 

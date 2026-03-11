@@ -35,9 +35,13 @@ figcaption {
   color: #dadada;
 }
 
+/* Navbar toggle icon color */
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #000000; /* Black for unhovered state */
+}
 
-.navbar-default .navbar-toggle li a {
-  color: #242424;
+.navbar-default .navbar-toggle:hover .icon-bar {
+  background-color: #ffffff; /* White for hovered state */
 }
 
 p.byline {

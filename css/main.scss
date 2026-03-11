@@ -21,16 +21,19 @@ figcaption {
 
 
 
-/* Top navigation bar */
+/* Top navigation bar color settings */
 
+/* background bar color */
 .navbar-default {
-  background-color: #4B9CD3; /* Replace with your desired color, e.g., #007bff for blue */
+  background-color: #4B9CD3; 
 }
 
+/* text for linked pages */
 .navbar-default .navbar-nav li a {
-  color: #242424;
+  color: #242424; 
 }
 
+/* hover text for linked pages */
 .navbar-default .navbar-nav li a:hover {
   color: #dadada;
 }
@@ -40,9 +43,16 @@ figcaption {
   background-color: #242424; /* Black for unhovered state */
 }
 
-.navbar-default .navbar-toggle:hover .icon-bar {
-  background-color: #dadada; /* White for hovered state */
+/* Navbar toggle button outline color */
+.navbar-default .navbar-toggle {
+  border-color: #4B9CD3; 
 }
+
+/* change if u want to change color of toggle icon when hovered */
+.navbar-default .navbar-toggle:hover .icon-bar {
+  background-color: #dadada; 
+}
+
 
 p.byline {
 	text-align: center;

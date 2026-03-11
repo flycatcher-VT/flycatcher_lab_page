@@ -27,8 +27,6 @@ figcaption {
   background-color: #4B9CD3; /* Replace with your desired color, e.g., #007bff for blue */
 }
 
-
-
 .navbar-default .navbar-nav li a {
   color: #242424;
 }
@@ -38,6 +36,9 @@ figcaption {
 }
 
 
+.navbar-light .navbar-toggler-icon {
+  color: #242424;
+}
 
 p.byline {
 	text-align: center;

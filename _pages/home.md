@@ -10,9 +10,9 @@ permalink: /
 
 We are an evolutionary biology lab located in the Genome Sciences Building at the [University of North Carolina at Chapel Hill](https://bio.unc.edu/). 
 
-Our lab is interested in evolutionary processes that contribute to **speciation**. Specifically, we use the genus *Drosophila* (fruit flies) to better understand how **hybrid incompatibilities** accumulate, and how these contribute to the development of species boundaries through inviable offspring. This often involves closely testing different combinations of fly lineages, extracting DNA, and using Next Generation Sequencing to generate genomic data for use bioinformatic and computational analyses.
+Our lab is interested in evolutionary processes that contribute to **speciation**. Specifically, we use the genus *Drosophila* (fruit flies) to better understand how **hybrid incompatibilities** accumulate, and how these contribute to the development of species boundaries through inviable offspring. This often involves closely testing different combinations of fly lineages, extracting DNA, and using Next Generation Sequencing to generate genomic data for use in bioinformatic and computational analyses.
 
-We arent just limited to *Drosophila*; Our lab also explores the **evolution of virulence** within dimorphic fungal pathogens through many model and non-model organisms such as *Histoplasma*, *Paracoccidioides*, and *Sporothrix* among others. 
+We aren't just limited to *Drosophila*; Our lab also explores the **evolution of virulence** within dimorphic fungal pathogens through many model and non-model organisms such as *Histoplasma*, *Paracoccidioides*, and *Sporothrix* among others. 
 
 <!-- Edit this if you would like to change the number of slides or images of the slides on the homepage-->
  <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > 

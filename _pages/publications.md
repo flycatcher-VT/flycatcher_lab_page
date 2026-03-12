@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://www.biorxiv.org/search/Daniel%252BMatute).**
+**At the end of this page, you can find the [full list of publications ](#full-list-of-publications). All papers are also available on [BioXiv](https://www.biorxiv.org/search/Daniel%252BMatute) and [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

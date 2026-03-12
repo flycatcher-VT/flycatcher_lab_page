@@ -14,7 +14,7 @@ Our lab is interested in evolutionary processes that contribute to **speciation*
 
 We aren't just limited to *Drosophila*; Our lab also explores the **evolution of virulence** within dimorphic fungal pathogens through many model and non-model organisms such as *Histoplasma*, *Paracoccidioides*, and *Sporothrix* among others. 
 
-<!-- Edit this if you would like to change the number of slides or images of the slides on the homepage-->
+<!-- Edit this if you would like to change the number of slides of the slides on the homepage-->
  <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > 
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -23,7 +23,7 @@ We aren't just limited to *Drosophila*; Our lab also explores the **evolution of
         <li data-target="#carousel" data-slide-to="3"></li>
     </ol> 
 
-     
+<!-- Edit this if you would like to change the images of the slides on the homepage-->
 <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/drosophila.jpg" alt="Slide 1" />

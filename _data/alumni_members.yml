@@ -1,12 +1,72 @@
-#- name: Gijsbert Verdoes
-#  photo: verdoes.jpg
-#  duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-#  info: Fine mechanical engineer associated with the FMD working in our group
-#  email: verdoes@fmd.physics.leidenuniv.nl
-#  number_educ: 1
-#  education1: Leidse instrumentmakers School
-# education2:
-# education3:
-#  education4:
+- name: Jonathan Rader
+  photo: 
+  duration: 2022-2025
+  info: Assistant Professor at the Texas A&M International University, Department of Biology 
+  email: 
+  number_educ: 3
+  education1: BSc in Natural Science and Mathematics, University of Wyoming
+  education2: MSc In Zoology and Physiology, University of Wyoming
+  education3: PhD In Ecology, Evolution and Organismal Biology, Hendrick Lab at the University of North Carolina at Chapel Hill
 
+- name: Dmitry Grinevich
+  photo: 
+  duration: 2023-2025
+  info: 
+  email: 
+  number_educ: 2
+  education1: Bachelors, Ohio State University
+  education2: PhD, NC State University
+  
+- name: Sean Anderson
+  photo: 
+  duration: 2022-2024
+  info: Assistant professor at the Georgia Institute of Technology, Department of Biological Sciences
+  email: sean.anderson@gatech.edu
+  number_educ: 2
+  education1: BSc in Biology, University of Victoria
+  education2: PhD In Ecology and Evolutionary Biology, Weir lab at the University of Toronto
+  
+- name: Gaston Gjofre
+  photo: 
+  duration: 
+  info: 
+  email: 
+  number_educ: 2
+  education1: 
+  education2: 
 
+- name: Andrius Daglius
+  photo: 
+  duration: 
+  info: 
+  email: 
+  number_educ: 2
+  education1: 
+  education2: 
+
+- name: Tania Kurbessoian
+  photo: 
+  duration: 
+  info: 
+  email: 
+  number_educ: 2
+  education1: 
+  education2: 
+
+- name: Rachel Wadleigh
+  photo: 
+  duration: 
+  info: 
+  email: 
+  number_educ: 2
+  education1: 
+  education2: 
+
+- name: David Turissini
+  photo: 
+  duration: 
+  info: 
+  email: 
+  number_educ: 2
+  education1: 
+  education2: 

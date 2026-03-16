@@ -26,27 +26,27 @@
   education1: BSc in Biology, University of Victoria
   education2: PhD In Ecology and Evolutionary Biology, Weir lab at the University of Toronto
   
-- name: Gaston Gjofre
+- name: Gaston Jofre
   photo: 
   duration: 
-  info: 
+  info: Assistant Professor at Virginia Commonwealth University, School of Life Sciences and Sustainability
   email: 
   number_educ: 2
   education1: 
   education2: 
 
-- name: Andrius Daglius
+- name: Andrius Dagilis
   photo: 
   duration: 
-  info: 
-  email: 
+  info: Assistant Professor at the University of Connecticut, Ecology and Evolutionary Biology Department
+  email: adagilis@uconn.edu
   number_educ: 2
   education1: 
   education2: 
 
 - name: Tania Kurbessoian
   photo: 
-  duration: 
+  duration: 2023-2024
   info: 
   email: 
   number_educ: 2
@@ -56,7 +56,7 @@
 - name: Rachel Wadleigh
   photo: 
   duration: 
-  info: 
+  info: Assistant Research Professor at Duke University, Department of Biology
   email: 
   number_educ: 2
   education1: 

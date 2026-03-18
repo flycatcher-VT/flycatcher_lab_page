@@ -9,14 +9,12 @@ permalink: /publications/
 
 # Publications
 
-**At the end of this page, you can find the [full list of publications ](#full-list-of-publications). All papers are also available on [BioXiv](https://www.biorxiv.org/search/Daniel%252BMatute) and [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).**
+**All papers are also available on [BioXiv](https://www.biorxiv.org/search/Daniel%252BMatute) and [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).**
 
-{% comment %} Accordion years 2025-2014, citations only. {% endcomment %}
-
-## Publications by Year
+{% comment %} Accordion years 2026-2014. {% endcomment %}
 
 <div class="panel-group" id="yearAccordion" role="tablist" aria-multiselectable="true">
-{% assign the_years = "2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014" | split: "," %}
+{% assign the_years = "2026,2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014" | split: "," %}
 {% for year in the_years %}
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="heading{{ year }}">

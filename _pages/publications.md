@@ -11,50 +11,44 @@ permalink: /publications/
 
 **At the end of this page, you can find the [full list of publications ](#full-list-of-publications). All papers are also available on [BioXiv](https://www.biorxiv.org/search/Daniel%252BMatute) and [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).**
 
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% comment %} Accordion years 2025-2014, citations only. {% endcomment %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+## Publications by Year
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
+<div class="panel-group" id="yearAccordion" role="tablist" aria-multiselectable="true">
+{% assign the_years = "2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014" | split: "," %}
+{% for year in the_years %}
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="heading{{ year }}">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#yearAccordion" href="#collapse{{ year }}" aria-expanded="false" aria-controls="collapse{{ year }}">
+          {{ year }}
+        </a>
+      </h4>
+    </div>
+    <div id="collapse{{ year }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{ year }}">
+      <div class="panel-body">
+        {% assign pubs = site.data.publist | where: "year", year %}
+        {% if pubs.size > 0 %}
+          <ul style="margin: 0; padding-left: 1rem;">
+          {% for publi in pubs %}
+            <li style="margin-bottom: 0.5rem;">
+              {% if publi.citation %}
+                {{ publi.citation }}
+              {% else %}
+                <strong>{{ publi.title }}</strong><br />
+                <em>{{ publi.authors }}</em>{% if publi.journal %}, {{ publi.journal }}{% endif %}.{% if publi.volume %} {{ publi.volume }}{% endif %}{% if publi.pages %}: {{ publi.pages }}{% endif %}
+              {% endif %}
+            </li>
+          {% endfor %}
+          </ul>
+        {% else %}
+          <p>No citations for {{ year }}.</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
-<p> &nbsp; </p>
 
 
-## Full List of publications
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}

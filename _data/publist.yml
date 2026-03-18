@@ -1,8 +1,8 @@
-#- title: "Cryogenic geometric anti-spring vibration isolation system"
-#  image: GAS.png
-#  description: TLow temperature and low vibration levels are key for scanning probe microscopy, large-mass quantum mechanics, and gravitational wave detection. Here we develop and present a new cryogenic GAS system to achieve such environments. 
-#  authors: L. Feenstra, S. Dominguez-Calderon, K. van Oosten, H. S. M. Bohemen, T. Benschop, M. Brinkman, M. Li, E. Hennes, R. Cornelissen, B. J. Hensen, A. Bertolini, M. P. Allan
-#  link:
-#    url: https://arxiv.org/abs/2509.09010
-#    display: arXiv (2025)
-#  highlight: 1
+- title: "this is a test of the publist yaml file"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor." 
+  authors: O. Kompathoum, D. Matute
+  link:
+    url: 
+    display: 
+  highlight: 1
+  year : 2025

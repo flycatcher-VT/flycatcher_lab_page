@@ -23,7 +23,8 @@ Jump to [Staff](#staff), [Undergraduate Researchers ](#undergraduate-researchers
 <div style="overflow: hidden; margin-bottom: 1.2em; padding-bottom: 0.5em; border-bottom: 1px solid #ddd;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; width: 145px; max-width: 25%; margin-right: 1rem; margin-bottom: 0.5rem;" alt="{{ member.name }}" />
   <h4 style="margin-top: 0;">{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
+  <i>{{ member.info }}</i><br/>
+  {% if member.email %}<a href="mailto:{{ member.email }}">{{ member.email }}</a><br/>{% endif %}
   <ul style="margin-top: 0.5rem; padding-left: 1.2rem; overflow: hidden;">
     {% if member.number_educ == 1 %}
     <li>{{ member.education1 | markdownify }}</li>

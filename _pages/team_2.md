@@ -3,7 +3,7 @@ title: "Matute Lab - Team"
 layout: gridlay
 excerpt: "Matute Lab: Team members"
 sitemap: false
-permalink: /team/
+permalink: /team_2/
 ---
 
 # Group Members

@@ -54,7 +54,7 @@
   education2: 
 
 - name: Rachel Wadleigh
-  photo: 
+  photo: rachel.png
   duration: Post Doc,
   info: Assistant Research Professor at Duke University, Department of Biology
   email: 
@@ -72,7 +72,7 @@
   education2: 
 
 - name: Jenn Coughlan
-  photo: 
+  photo: jenn.jpg
   duration: Post Doc,
   info: Assistant Professor at Yale University. Department of Ecology and Evolutionary Biology
   email: 
@@ -81,7 +81,7 @@
   education2: 
 
 - name: Adam Stuckert
-  photo: 
+  photo: adam.jpg
   duration: Post Doc,
   info: Assistant Professor at the University of Houston, Department of Biology and Biochemistry
   email: 
@@ -90,7 +90,7 @@
   education2: 
 
 - name: Colin Maxwell
-  photo: 
+  photo: colin.jpg
   duration: Post Doc,
   info: Senior Scientist at Ruby Bio
   email: 
@@ -99,7 +99,7 @@
   education2: 
 
 - name: Antonio Serrato-Capuchina
-  photo: 
+  photo: antonio.jpg
   duration: PhD Student,
   info: Assistant Professor at Boston College, Biology Department
   email: 
@@ -108,9 +108,9 @@
   education2: 
 
 - name: Aaron Comeault
-  photo: 
+  photo: aaron.jpg
   duration: Post Doc,
-  info: Assistant Professor at Boston College, Biology Department
+  info: Lecturer at Bangor University, School of Environmental and Natural Sciences
   email: 
   number_educ: 2
   education1: 

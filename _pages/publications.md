@@ -27,7 +27,7 @@ permalink: /publications/
             <li style="margin-bottom: 0.5rem;">
               <strong>{{ publi.title }}</strong><br>
               <em>{{ publi.authors }}</em><br>
-              {{ publi.journal }}{% if publi.volume %} {{ publi.volume }}{% endif %}{% if publi.pages %}: {{ publi.pages }}{% endif %}<br>
+              {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank">{{ publi.journal }}</a>{% else %}{{ publi.journal }}{% endif %}{% if publi.pages %}: {{ publi.pages }}{% endif %}<br>
               {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>{% endif %}
             </li>
           {% endfor %}

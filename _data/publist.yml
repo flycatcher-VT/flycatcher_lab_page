@@ -26,45 +26,45 @@
     url:
     display:
 
-- title: "An ancient gene duplication is implicated in virulence in the human pathogen, Histoplasma"
-  authors: VE Sepulveda, J Li, DA Turissini, JA Rader, O Kompathoum, DR Matute
-  journal: "bioRxiv"
-  year: 2026
-  link:
-    url: "https://www.biorxiv.org/content/10.64898/2026.02.25.708051.full.pdf"
-    display: "Available"
+#- title: "An ancient gene duplication is implicated in virulence in the human pathogen, Histoplasma"
+#  authors: VE Sepulveda, J Li, DA Turissini, JA Rader, O Kompathoum, DR Matute
+#  journal: "bioRxiv"
+#  year: 2026
+#  link:
+#    url: "https://www.biorxiv.org/content/10.64898/2026.02.25.708051.full.pdf"
+#    display: "Available"
 
-- title: "Body size, wing area, and wing loading follow a pattern of trait conservatism in Drosophila"
-  authors: JA Rader, P Kelly, GA Jimenez, DR Matute
-  journal: "bioRxiv"
-  year: 2026
-  link:
-    url: "https://www.biorxiv.org/content/10.64898/2026.02.12.705663.full.pdf"
-    display: "Available"
+#- title: "Body size, wing area, and wing loading follow a pattern of trait conservatism in Drosophila"
+#  authors: JA Rader, P Kelly, GA Jimenez, DR Matute
+#  journal: "bioRxiv"
+#  year: 2026
+#  link:
+#    url: "https://www.biorxiv.org/content/10.64898/2026.02.12.705663.full.pdf"
+#    display: "Available"
 
-- title: "Two species of Aedes show altitudinal variation in temperature preference in the islands of the Gulf of Guinea"
-  authors: DR Matute
-  journal: "bioRxiv"
-  year: 2026
-  link:
-    url: "https://www.biorxiv.org/content/10.64898/2026.02.04.703755.full.pdf"
-    display: "Available"
+#- title: "Two species of Aedes show altitudinal variation in temperature preference in the islands of the Gulf of Guinea"
+#  authors: DR Matute
+#  journal: "bioRxiv"
+#  year: 2026
+#  link:
+#    url: "https://www.biorxiv.org/content/10.64898/2026.02.04.703755.full.pdf"
+#    display: "Available"
 
-- title: "The contribution of transposable element insertions to genetic diversity in Aedes aegypti populations"
-  authors: G Valente-Almeida, A Daigle, DR Matute, DR Schrider
-  journal: "bioRxiv"
-  year: 2025
-  link:
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12636589/"
-    display: "Available"
+#- title: "The contribution of transposable element insertions to genetic diversity in Aedes aegypti populations"
+#  authors: G Valente-Almeida, A Daigle, DR Matute, DR Schrider
+#  journal: "bioRxiv"
+#  year: 2025
+#  link:
+#    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12636589/"
+#    display: "Available"
 
-- title: "Telomeric assemblies of Paracoccidioides genomes"
-  authors: R de Almeida Paes, P Alvarado, RM Zancopé-Oliveira, JG McEwen, VE Sepúlveda, MM Teixeira, DR Matute
-  journal: "bioRxiv"
-  year: 2025
-  link:
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12636465/"
-    display: "Available"
+#- title: "Telomeric assemblies of Paracoccidioides genomes"
+#  authors: R de Almeida Paes, P Alvarado, RM Zancopé-Oliveira, JG McEwen, VE Sepúlveda, MM Teixeira, DR Matute
+#  journal: "bioRxiv"
+#  year: 2025
+#  link:
+#    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12636465/"
+#    display: "Available"
 
 - title: "Genomic epidemiology of Histoplasma in Africa"
   authors: MM Teixeira, BM Barker, A Alanio, A Sturny-Leclère, D Garcia-Hermoso, NP Govender, DR Matute
@@ -136,13 +136,13 @@
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11631411/"
     display: "Available"
 
-- title: "The comparative analysis of lineage-pair traits"
-  authors: SAS Anderson, S Kaushik, DR Matute
-  journal: "bioRxiv"
-  year: 2024
-  link:
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11623676/"
-    display: "Available"
+#- title: "The comparative analysis of lineage-pair traits"
+#  authors: SAS Anderson, S Kaushik, DR Matute
+#  journal: "bioRxiv"
+#  year: 2024
+#  link:
+#    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11623676/"
+#    display: "Available"
 
 - title: "Ancestral neural circuits potentiate the origin of a female sexual behavior in Drosophila"
   authors: M Li, DS Chen, IP Junker, FI Szorenyi, GH Chen, AJ Berger, AA Comeault, DR Matute, Y Ding
@@ -384,13 +384,13 @@
     url: "https://elifesciences.org/articles/66405.pdf"
     display: "Available"
 
-- title: "Rapid evolution of the functionally conserved gap gene giant in Drosophila"
-  authors: W Chang, DR Matute, M Kreitman
-  journal: "bioRxiv"
-  year: 2021
-  link:
-    url: "https://www.biorxiv.org/content/10.1101/2021.07.08.451553.full.pdf"
-    display: "Available"
+#- title: "Rapid evolution of the functionally conserved gap gene giant in Drosophila"
+#  authors: W Chang, DR Matute, M Kreitman
+#  journal: "bioRxiv"
+#  year: 2021
+#  link:
+#    url: "https://www.biorxiv.org/content/10.1101/2021.07.08.451553.full.pdf"
+#    display: "Available"
 
 - title: "Mitochondrial genomes of the human pathogens Coccidioides immitis and Coccidioides posadasii"
   authors: M de Melo Teixeira, BF Lang, DR Matute, JE Stajich, BM Barker
@@ -412,13 +412,13 @@
     url: "https://www.biorxiv.org/content/10.1101/2020.07.22.214924.full"
     display: "Available"
 
-- title: "Reinforcement alone does not explain increased reproductive isolation in sympatry"
-  authors: DR Matute, BS Cooper
-  journal: "bioRxiv"
-  year: 2021
-  link:
-    url: "https://www.biorxiv.org/content/10.1101/2021.05.06.442525.full"
-    display: "Available"
+#- title: "Reinforcement alone does not explain increased reproductive isolation in sympatry"
+#  authors: DR Matute, BS Cooper
+#  journal: "bioRxiv"
+#  year: 2021
+#  link:
+#    url: "https://www.biorxiv.org/content/10.1101/2021.05.06.442525.full"
+#    display: "Available"
 
 - title: "Comparative studies on speciation: 30 years since Coyne and Orr"
   authors: DR Matute, BS Cooper
@@ -575,13 +575,13 @@
     url: "https://www.sciencedirect.com/science/article/pii/S1087184519300386"
     display: "Available"
 
-- title: "Introgressive and horizontal acquisition of Wolbachia by Drosophila yakuba-clade hosts and horizontal transfer of incompatibility loci between distantly related Wolbachia"
-  authors: BS Cooper, D Vanderpool, WR Conner, DR Matute, M Turelli
-  journal: "bioRxiv"
-  year: 2019
-  link:
-    url: "https://www.biorxiv.org/content/10.1101/551036.full"
-    display: "Available"
+#- title: "Introgressive and horizontal acquisition of Wolbachia by Drosophila yakuba-clade hosts and horizontal transfer of incompatibility loci between distantly related Wolbachia"
+#  authors: BS Cooper, D Vanderpool, WR Conner, DR Matute, M Turelli
+#  journal: "bioRxiv"
+#  year: 2019
+#  link:
+#    url: "https://www.biorxiv.org/content/10.1101/551036.full"
+#    display: "Available"
 
 - title: "Gene exchange between two divergent species of the fungal human pathogen, Coccidioides"
   authors: CS Maxwell, K Mattox, DA Turissini, MM Teixeira, BM Barker, DR Matute
@@ -613,13 +613,13 @@
     url: "https://www.cell.com/current-biology/pdfExtended/S0960-9822(18)31131-X"
     display: "Available"
 
-- title: "Recent invasion of P transposable element into Drosophila yakuba"
-  authors: A Serrato-Capuchina, S Zhang, W Martin, D Peede, E Earley, DR Matute
-  journal: "bioRxiv"
-  year: 2018
-  link:
-    url: "https://www.biorxiv.org/content/10.1101/453829.full"
-    display: "Available"
+#- title: "Recent invasion of P transposable element into Drosophila yakuba"
+#  authors: A Serrato-Capuchina, S Zhang, W Martin, D Peede, E Earley, DR Matute
+#  journal: "bioRxiv"
+#  year: 2018
+#  link:
+#    url: "https://www.biorxiv.org/content/10.1101/453829.full"
+#    display: "Available"
 
 - title: "Genetic divergence and the number of hybridizing species affect the path to homoploid hybrid speciation"
   authors: AA Comeault, DR Matute

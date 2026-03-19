@@ -22,7 +22,7 @@ permalink: /publications/
     <label for="accordion{{ year }}">{{ year }}</label>
     <div>
       {% if pubs.size > 0 %}
-        <!--<ul style="margin: 0; padding-left: 1rem;"> -->
+        <ul style="margin: 0; padding-left: 1rem;"> 
           {% for publi in pubs %}
             <li style="margin-bottom: 0.5rem;">{% if publi.citation %}{{ publi.citation }}{% else %}<strong>{{ publi.title }}</strong> <em>{{ publi.authors }}</em>{% endif %}</li>
           {% endfor %}

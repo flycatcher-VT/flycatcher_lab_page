@@ -1,17 +1,782 @@
-- title: "this is a test of the publist yaml file"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor." 
-  authors: O. Kompathoum, D. Matute
+- title: "Soft selective sweeps predominate in the yellow fever mosquito Aedes aegypti"
+  authors: RN Ketchum, DR Matute, DR Schrider
+  journal: "Molecular Biology and Evolution"
+  volume: "msag068"
+  year: 2026
   link:
-    url: 
-    display: 
-  highlight: 1
-  year : 2025
+    url: "https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msag068/67317237/msag068.pdf"
+    display: "Available"
 
-- title: "this is a test of the publist yaml file 2"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor." 
-  authors: O. Kompathoum, D. Matute
+- title: "Morphological and genetic characterization of novel Sarocladium spinificis strains in association with Coccidioides posadasii"
+  authors: MM Teixeira, SA Ahmed, HL Mead, S de Hoog, N Wiederhold, JE Stajich, DR Matute, GR Thompson
+  journal: "Microbiology Spectrum"
+  volume: "14(2)"
+  pages: "e00689-25"
+  year: 2026
   link:
-    url: 
-    display: 
-  highlight: 1
-  year : 2026
+    url: "https://journals.asm.org/doi/pdf/10.1128/spectrum.00689-25"
+    display: "Available"
+
+- title: "The dynamics of transposable element content in the genome of the human pathogen Histoplasma"
+  authors: DA Turissini, PW Kelly, O Kompathoum, JA Rader, GI Jofre, J Li, MK Sutherland, VE Sepúlveda, DR Matute
+  journal: "Fungal Genetics and Biology"
+  pages: "104057"
+  year: 2026
+  link:
+    url:
+    display:
+
+- title: "An ancient gene duplication is implicated in virulence in the human pathogen, Histoplasma"
+  authors: VE Sepulveda, J Li, DA Turissini, JA Rader, O Kompathoum, DR Matute
+  journal: "bioRxiv"
+  year: 2026
+  link:
+    url: "https://www.biorxiv.org/content/10.64898/2026.02.25.708051.full.pdf"
+    display: "Available"
+
+- title: "Body size, wing area, and wing loading follow a pattern of trait conservatism in Drosophila"
+  authors: JA Rader, P Kelly, GA Jimenez, DR Matute
+  journal: "bioRxiv"
+  year: 2026
+  link:
+    url: "https://www.biorxiv.org/content/10.64898/2026.02.12.705663.full.pdf"
+    display: "Available"
+
+- title: "Two species of Aedes show altitudinal variation in temperature preference in the islands of the Gulf of Guinea"
+  authors: DR Matute
+  journal: "bioRxiv"
+  year: 2026
+  link:
+    url: "https://www.biorxiv.org/content/10.64898/2026.02.04.703755.full.pdf"
+    display: "Available"
+
+- title: "The contribution of transposable element insertions to genetic diversity in Aedes aegypti populations"
+  authors: G Valente-Almeida, A Daigle, DR Matute, DR Schrider
+  journal: "bioRxiv"
+  year: 2025
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12636589/"
+    display: "Available"
+
+- title: "Telomeric assemblies of Paracoccidioides genomes"
+  authors: R de Almeida Paes, P Alvarado, RM Zancopé-Oliveira, JG McEwen, VE Sepúlveda, MM Teixeira, DR Matute
+  journal: "bioRxiv"
+  year: 2025
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12636465/"
+    display: "Available"
+
+- title: "Genomic epidemiology of Histoplasma in Africa"
+  authors: MM Teixeira, BM Barker, A Alanio, A Sturny-Leclère, D Garcia-Hermoso, NP Govender, DR Matute
+  journal: "Mbio"
+  volume: "16(9)"
+  pages: "e00564-25"
+  year: 2025
+  link:
+    url: "https://journals.asm.org/doi/pdf/10.1128/mbio.00564-25"
+    display: "Available"
+
+- title: "Phylogenetic and functional diversity among Drosophila-associated metagenome-assembled genomes"
+  authors: AA Comeault, AH Orta, DB Fidler, T Nunn, AR Ellison, TA Anspach, DR Matute
+  journal: "Msystems"
+  volume: "10(7)"
+  pages: "e00027-25"
+  year: 2025
+  link:
+    url: "https://journals.asm.org/doi/pdf/10.1128/msystems.00027-25"
+    display: "Available"
+
+- title: "High genetic diversity of Histoplasma in the Amazon basin, 2006–2017"
+  authors: Q Zeb, S Vreden, A Adenis, F Yegres, M Demar, MJS Buitrago, BM Barker, M Nacher, DR Matute
+  journal: "Emerging infectious diseases"
+  volume: "31(6)"
+  pages: "1169"
+  year: 2025
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12123918/"
+    display: "Available"
+
+- title: "Sporothrix is neglected among the neglected"
+  authors: DR Matute, MM Teixeira
+  journal: "PLoS Pathogens"
+  volume: "21(3)"
+  pages: "e1012898"
+  year: 2025
+  link:
+    url: "https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1012898&type=printable"
+    display: "Available"
+
+- title: "Tracing histoplasmosis genomic epidemiology and species occurrence across the USA"
+  authors: BG Tenório, DR Kollath, L Gade, AP Litvintseva, T Chiller, JS Jenness, JE Stajich, DR Matute, AS Hanzlicek
+  journal: "Emerging Microbes & Infections"
+  volume: "13(1)"
+  pages: "2315960"
+  year: 2024
+  link:
+    url: "https://www.tandfonline.com/doi/full/10.1080/22221751.2024.2315960"
+    display: "Available"
+
+- title: "Autochthonous blastomyces dermatitidis, India"
+  authors: A Chowdhary, GI Jofre, A Singh, AJ Dagilis, VE Sepúlveda, AT McClure, DR Matute
+  journal: "Emerging Infectious Diseases"
+  volume: "30(12)"
+  pages: "2577"
+  year: 2024
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11616655/"
+    display: "Available"
+
+- title: "Admixture in the fungal pathogen Blastomyces"
+  authors: GI Jofre, AJ Dagilis, VE Sepúlveda, T Anspach, A Singh, A Chowdhary, DR Matute
+  journal: "Genetics"
+  volume: "228(4)"
+  pages: "iyae155"
+  year: 2024
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11631411/"
+    display: "Available"
+
+- title: "The comparative analysis of lineage-pair traits"
+  authors: SAS Anderson, S Kaushik, DR Matute
+  journal: "bioRxiv"
+  year: 2024
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11623676/"
+    display: "Available"
+
+- title: "Ancestral neural circuits potentiate the origin of a female sexual behavior in Drosophila"
+  authors: M Li, DS Chen, IP Junker, FI Szorenyi, GH Chen, AJ Berger, AA Comeault, DR Matute, Y Ding
+  journal: "Nature Communications"
+  volume: "15(1)"
+  pages: "9210"
+  year: 2024
+  link:
+    url: "https://www.nature.com/articles/s41467-024-53610-w.pdf"
+    display: "Available"
+
+- title: "Single-fly genome assemblies fill major phylogenomic gaps across the Drosophilidae Tree of Life"
+  authors: S Simoni, TE Steenwinkel, ZA Syed, A Takahashi, KHC Wei, T Yokoyama, MB Eisen, A Kopp, D Matute
+  journal: "PLoS Biology"
+  volume: "22(7)"
+  pages: "e3002697"
+  year: 2024
+  link:
+    url: "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002697"
+    display: "Available"
+
+- title: "Genotypic diversity, virulence, and molecular genetic tools in Histoplasma"
+  authors: VE Sepúlveda, WE Goldman, DR Matute
+  journal: "Microbiology and Molecular Biology Reviews"
+  volume: "88(2)"
+  pages: "e00076-23"
+  year: 2024
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11332355/"
+    display: "Available"
+
+- title: "Phenotypic characterization of cryptic species in the fungal pathogen Histoplasma"
+  authors: VE Sepúlveda, JA Rader, J Li, WE Goldman, DR Matute
+  journal: "Msphere"
+  volume: "9(6)"
+  pages: "e00009-24"
+  year: 2024
+  link:
+    url: "https://journals.asm.org/doi/pdf/10.1128/msphere.00009-24"
+    display: "Available"
+
+- title: "Humidity and temperature preference in two Neotropical species of sand flies"
+  authors: JA Rader, A Stuckert, R Santander-Gualdron, G Cadavid-Restrepo, CX Moreno-Herrera, DR Matute
+  journal: "Parasites & Vectors"
+  volume: "17(1)"
+  pages: "246"
+  year: 2024
+  link:
+    url: "https://link.springer.com/content/pdf/10.1186/s13071-024-06325-2.pdf"
+    display: "Available"
+
+- title: "The spread of Aedes albopictus (Diptera: Culicidae) in the islands of São Tomé and Príncipe"
+  authors: JA Rader, A Serrato-Capuchina, T Anspach, DR Matute
+  journal: "Acta Tropica"
+  volume: "251"
+  pages: "107106"
+  year: 2024
+  link:
+    url: "https://www.biorxiv.org/content/10.1101/2023.09.28.559833.full"
+    display: "Available"
+
+- title: "Aedes albopictus is present in the lowlands of southern Zambia"
+  authors: DR Matute, BS Cooper
+  journal: "Acta Tropica"
+  volume: "251"
+  pages: "107115"
+  year: 2024
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11586621/"
+    display: "Available"
+
+- title: "Isotopic niches do not follow the expectations of niche conservatism in the bird genus Cinclodes"
+  authors: JA Rader, DR Matute
+  journal: "Journal of Evolutionary Biology"
+  volume: "36(8)"
+  pages: "1185-1197"
+  year: 2023
+  link:
+    url: "https://academic.oup.com/jeb/article-pdf/36/8/1185/56273520/jeb14197.pdf"
+    display: "Available"
+
+- title: "The fitness of an introgressing haplotype changes over the course of divergence and depends on its size and genomic location"
+  authors: AJ Dagilis, DR Matute
+  journal: "PLoS Biology"
+  volume: "21(7)"
+  pages: "e3002185"
+  year: 2023
+  link:
+    url: "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3002185&type=printable"
+    display: "Available"
+
+- title: "Strong positive selection in Aedes aegypti and the rapid evolution of insecticide resistance"
+  authors: RR Love, JR Sikder, RJ Vivero, DR Matute, DR Schrider
+  journal: "Molecular Biology and Evolution"
+  volume: "40(4)"
+  pages: "msad072"
+  year: 2023
+  link:
+    url: "https://academic.oup.com/mbe/article-pdf/doi/10.1093/molbev/msad072/50049510/msad072.pdf"
+    display: "Available"
+
+- title: "Patterns of population structure and introgression among recently differentiated Drosophila melanogaster populations"
+  authors: JM Coughlan, AJ Dagilis, A Serrato-Capuchina, H Elias, D Peede, K Isbell, DM Castillo, BS Cooper, DR Matute
+  journal: "Molecular Biology and Evolution"
+  volume: "39(11)"
+  pages: "msac223"
+  year: 2022
+  link:
+    url: "https://academic.oup.com/mbe/article-pdf/doi/10.1093/molbev/msac223/46875220/msac223.pdf"
+    display: "Available"
+
+- title: "Single nucleotide polymorphisms and chromosomal copy number variation may impact the Sporothrix brasiliensis antifungal susceptibility and sporotrichosis clinical outcomes"
+  authors: AM Nicola, PM de Macedo, ACF Valle, MC Gutierrez-Galhardo, DFS Freitas, BM Barker, DR Matute
+  journal: "Fungal Genetics and Biology"
+  volume: "163"
+  pages: "103743"
+  year: 2022
+  link:
+    url: "https://www.sciencedirect.com/science/article/am/pii/S1087184522000883"
+    display: "Available"
+
+- title: "Phylogenetic climatic niche conservatism in sandflies (Diptera: Phlebotominae) and their relatives"
+  authors: ERR D'Agostino, R Vivero, L Romero, E Bejarano, AH Hurlbert, AA Comeault, DR Matute
+  journal: "Evolution"
+  volume: "76(10)"
+  pages: "2361-2374"
+  year: 2022
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11612920/"
+    display: "Available"
+
+- title: "A need for standardized reporting of introgression: Insights from studies across eukaryotes"
+  authors: AJ Dagilis, D Peede, JM Coughlan, GI Jofre, ERR D'Agostino, H Mavengere, AD Tate, DR Matute
+  journal: "Evolution Letters"
+  volume: "6(5)"
+  pages: "344-357"
+  year: 2022
+  link:
+    url: "https://academic.oup.com/evlett/article-pdf/6/5/344/49856077/evlett0344.pdf"
+    display: "Available"
+
+- title: "Using neutral loci to quantify reproductive isolation and speciation: a commentary on Westram et al., 2022"
+  authors: AMM Stuckert, DR Matute
+  journal: "Journal of Evolutionary Biology"
+  volume: "35(9)"
+  pages: "1169-1174"
+  year: 2022
+  link:
+    url: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jeb.14057"
+    display: "Available"
+
+- title: "Diversity of cave Phlebotomines (Diptera: Psychodidae) from a Colombian cave"
+  authors: MV Londono, AMM Stuckert, RJ Vivero, DR Matute
+  journal: "Acta tropica"
+  volume: "233"
+  pages: "106515"
+  year: 2022
+  link:
+    url: "https://www.sciencedirect.com/science/article/pii/S0001706X22002078"
+    display: "Available"
+
+- title: "The evolutionary trajectory of drosophilid walking"
+  authors: LE Brezovec, J Coughlan, S Herbst, A Krieger, SY Lee, B Pratt, AD Smart, E Song, A Suvorov, DR Matute
+  journal: "Current Biology"
+  volume: "32(14)"
+  pages: "3005-3015"
+  year: 2022
+  link:
+    url: "https://www.cell.com/current-biology/pdf/S0960-9822(22)00836-3.pdf"
+    display: "Available"
+
+- title: "Correction: Highly contiguous assemblies of 101 drosophilid genomes"
+  authors: E Bertolini, V Košťál, RS Hawley, A Takahashi, CD Jones, DK Price, N Whiteman, A Kopp, DR Matute
+  journal: "Elife"
+  volume: "11"
+  pages: "e78579"
+  year: 2022
+  link:
+    url: "https://elifesciences.org/articles/78579"
+    display: "Available"
+
+- title: "Widespread introgression across a phylogeny of 155 Drosophila genomes"
+  authors: ERR D'agostino, DK Price, PJ Waddell, M Lang, V Courtier-Orgogozo, JR David, D Petrov, DR Matute
+  journal: "Current Biology"
+  volume: "32(1)"
+  pages: "111-123"
+  year: 2022
+  link:
+    url: "https://www.cell.com/current-biology/pdf/S0960-9822(21)01496-2.pdf"
+    display: "Available"
+
+- title: "An Indian lineage of Histoplasma with strong signatures of differentiation and selection"
+  authors: GI Jofre, A Singh, H Mavengere, G Sundar, E D'Agostino, A Chowdhary, DR Matute
+  journal: "Fungal Genetics and Biology"
+  volume: "158"
+  pages: "103654"
+  year: 2022
+  link:
+    url: "https://www.sciencedirect.com/science/article/pii/S1087184521001389"
+    display: "Available"
+
+- title: "Genomic signatures of admixture and selection are shared among populations of Zaprionus indianus across the western hemisphere"
+  authors: AA Comeault, AF Kautt, DR Matute
+  journal: "Molecular Ecology"
+  volume: "30(23)"
+  pages: "6193-6210"
+  year: 2021
+  link:
+    url: "https://onlinelibrary.wiley.com/doi/pdf/10.1111%2Fmec.16066"
+    display: "Available"
+
+- title: "Genomic diversity analysis reveals a strong population structure in Histoplasma capsulatum LAmA (Histoplasma suramericanum)"
+  authors: F Almeida-Silva, M de Melo Teixeira, DR Matute, M de Faria Ferreira, BM Barker, R Almeida-Paes
+  journal: "Journal of Fungi"
+  volume: "7(10)"
+  pages: "865"
+  year: 2021
+  link:
+    url: "https://www.mdpi.com/2309-608X/7/10/865"
+    display: "Available"
+
+- title: "P-elements strengthen reproductive isolation within the Drosophila simulans species complex"
+  authors: A Serrato-Capuchina, ERR D'Agostino, D Peede, B Roy, K Isbell, J Wang, DR Matute
+  journal: "Evolution"
+  volume: "75(10)"
+  pages: "2425-2440"
+  year: 2021
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8772388/"
+    display: "Available"
+
+- title: "Highly contiguous assemblies of 101 drosophilid genomes"
+  authors: E Bertolini, V Košťál, RS Hawley, A Takahashi, CD Jones, DK Price, N Whiteman, A Kopp, DR Matute
+  journal: "Elife"
+  volume: "10"
+  pages: "e66405"
+  year: 2021
+  link:
+    url: "https://elifesciences.org/articles/66405.pdf"
+    display: "Available"
+
+- title: "Rapid evolution of the functionally conserved gap gene giant in Drosophila"
+  authors: W Chang, DR Matute, M Kreitman
+  journal: "bioRxiv"
+  year: 2021
+  link:
+    url: "https://www.biorxiv.org/content/10.1101/2021.07.08.451553.full.pdf"
+    display: "Available"
+
+- title: "Mitochondrial genomes of the human pathogens Coccidioides immitis and Coccidioides posadasii"
+  authors: M de Melo Teixeira, BF Lang, DR Matute, JE Stajich, BM Barker
+  journal: "G3"
+  volume: "11(7)"
+  pages: "jkab132"
+  year: 2021
+  link:
+    url: "https://academic.oup.com/g3journal/article-pdf/11/7/jkab132/57308372/jkab132.pdf"
+    display: "Available"
+
+- title: "Pure species discriminate against hybrids in the Drosophila melanogaster species subgroup"
+  authors: A Serrato-Capuchina, TD Schwochert, S Zhang, B Roy, D Peede, C Koppelman, DR Matute
+  journal: "Evolution"
+  volume: "75(7)"
+  pages: "1753-1774"
+  year: 2021
+  link:
+    url: "https://www.biorxiv.org/content/10.1101/2020.07.22.214924.full"
+    display: "Available"
+
+- title: "Reinforcement alone does not explain increased reproductive isolation in sympatry"
+  authors: DR Matute, BS Cooper
+  journal: "bioRxiv"
+  year: 2021
+  link:
+    url: "https://www.biorxiv.org/content/10.1101/2021.05.06.442525.full"
+    display: "Available"
+
+- title: "Comparative studies on speciation: 30 years since Coyne and Orr"
+  authors: DR Matute, BS Cooper
+  journal: "Evolution"
+  volume: "75(4)"
+  pages: "764-778"
+  year: 2021
+  link:
+    url: "https://academic.oup.com/evolut/article-pdf/75/4/764/49998448/evolut0764.pdf"
+    display: "Available"
+
+- title: "Temperature-dependent competitive outcomes between the fruit flies Drosophila santomea and Drosophila yakuba"
+  authors: AA Comeault, DR Matute
+  journal: "The American Naturalist"
+  volume: "197(3)"
+  pages: "312-323"
+  year: 2021
+  link:
+    url: "https://www.journals.uchicago.edu/doi/pdf/10.1086%2F712781"
+    display: "Available"
+
+- title: "Paracoccidioides brasiliensis isolated from nine-banded armadillos (Dasypus novemcinctus) reveal population structure and admixture in the Amazon Basin"
+  authors: E Bagagli, DR Matute, HG Garces, BG Tenorio, AG Garces, LGB Alves, DH Yamauchi, MF Hrycyk, BM Barker
+  journal: "Journal of Fungi"
+  volume: "7(1)"
+  pages: "54"
+  year: 2021
+  link:
+    url: "https://www.mdpi.com/2309-608X/7/1/54"
+    display: "Available"
+
+- title: "Who are we now? A demographic assessment of three evolution societies"
+  authors: CA Rushworth, RS Baucom, BK Blackman, M Neiman, ME Orive, A Sethuraman, J Ware, DR Matute
+  journal: "Evolution"
+  year: 2021
+  link:
+    url: "https://par.nsf.gov/servlets/purl/10250880"
+    display: "Available"
+
+- title: "Paracoccidioides genomes reflect high levels of species divergence and little interspecific gene flow"
+  authors: H Mavengere, K Mattox, MM Teixeira, VE Sepúlveda, OM Gomez, O Hernandez, J McEwen, DR Matute
+  journal: "MBio"
+  volume: "11(6)"
+  year: 2020
+  link:
+    url: "https://journals.asm.org/doi/pdf/10.1128/mbio.01999-20"
+    display: "Available"
+
+- title: "The importance of intrinsic postzygotic barriers throughout the speciation process"
+  authors: JM Coughlan, DR Matute
+  journal: "Philosophical Transactions of the Royal Society B: Biological Sciences"
+  volume: "375(1806)"
+  year: 2020
+  link:
+    url: "https://royalsocietypublishing.org/rstb/article/375/1806/20190533/42516"
+    display: "Available"
+
+- title: "Environmental and genetic contributions to imperfect w Mel-like Wolbachia transmission and frequency variation"
+  authors: MTJ Hague, H Mavengere, DR Matute, BS Cooper
+  journal: "Genetics"
+  volume: "215(4)"
+  pages: "1117-1132"
+  year: 2020
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7404227/"
+    display: "Available"
+
+- title: "Genomic diversity of the human pathogen Paracoccidioides across the South American continent"
+  authors: M de Melo Teixeira, ME Cattana, DR Matute, JF Muñoz, A Arechavala, K Isbell, R Schipper, G Santiso
+  journal: "Fungal Genetics and Biology"
+  volume: "140"
+  pages: "103395"
+  year: 2020
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7385733/"
+    display: "Available"
+
+- title: "Genetic diversity and thermal performance in invasive and native populations of African fig flies"
+  authors: AA Comeault, J Wang, S Tittes, K Isbell, S Ingley, AH Hurlbert, DR Matute
+  journal: "Molecular Biology and Evolution"
+  volume: "37(7)"
+  pages: "1893-1906"
+  year: 2020
+  link:
+    url: "https://academic.oup.com/mbe/article-pdf/doi/10.1093/molbev/msaa050/33412787/msaa050.pdf"
+    display: "Available"
+
+- title: "Paternally inherited P-element copy number affects the magnitude of hybrid dysgenesis in Drosophila simulans and D. melanogaster"
+  authors: A Serrato-Capuchina, J Wang, E Earley, D Peede, K Isbell, DR Matute
+  journal: "Genome Biology and Evolution"
+  volume: "12(6)"
+  pages: "808-826"
+  year: 2020
+  link:
+    url: "https://academic.oup.com/gbe/article/12/6/808/5825733"
+    display: "Available"
+
+- title: "Incompatibilities between emerging species"
+  authors: AJ Dagilis, DR Matute
+  journal: "Science"
+  volume: "368(6492)"
+  pages: "710-711"
+  year: 2020
+  link:
+    url: "https://drive.google.com/file/d/1sPeOji3zRicZC8xxEqrriaAEPqKevVjI/view"
+    display: "Available"
+
+- title: "Recurrent collection of Drosophila melanogaster from wild African environments and genomic insights into species history"
+  authors: QD Sprengelmeyer, S Mansourian, JD Lange, DR Matute, BS Cooper, EV Jirle, MC Stensmyr, JE Pool
+  journal: "Molecular Biology and Evolution"
+  volume: "37(3)"
+  pages: "627-638"
+  year: 2020
+  link:
+    url: "https://academic.oup.com/mbe/article/37/3/627/5626191"
+    display: "Available"
+
+- title: "A novel Sporothrix brasiliensis genomic variant in Midwestern Brazil: evidence for an older and wider sporotrichosis epidemic"
+  authors: L Monteiro Cruz, I Barbieri Dos Santos, J Stajich, R Almeida Paes, RM Zancopé Oliveira, D Matute
+  journal: "Emerging Microbes & Infections"
+  volume: "9(1)"
+  pages: "2515-2525"
+  year: 2020
+  link:
+    url: "https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1847001"
+    display: "Available"
+
+- title: "Rapid and predictable evolution of admixed populations between two Drosophila species pairs"
+  authors: DR Matute, AA Comeault, E Earley, A Serrato-Capuchina, D Peede, A Monroy-Eklund, W Huang, CD Jones
+  journal: "Genetics"
+  volume: "214(1)"
+  pages: "211-230"
+  year: 2020
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6944414/"
+    display: "Available"
+
+- title: "Population structure and genetic diversity among isolates of Coccidioides posadasii in Venezuela and surrounding regions"
+  authors: P Alvarado, CC Roe, GR Thompson III, JSL Patané, JW Sahl, P Keim, JN Galgiani, AP Litvintseva, DR Matute
+  journal: "MBio"
+  volume: "10(6)"
+  year: 2019
+  link:
+    url: "https://journals.asm.org/doi/pdf/10.1128/mbio.01976-19"
+    display: "Available"
+
+- title: "Fungal species boundaries in the genomics era"
+  authors: DR Matute, VE Sepúlveda
+  journal: "Fungal Genetics and Biology"
+  volume: "131"
+  pages: "103249"
+  year: 2019
+  link:
+    url: "https://www.sciencedirect.com/science/article/pii/S1087184519300386"
+    display: "Available"
+
+- title: "Introgressive and horizontal acquisition of Wolbachia by Drosophila yakuba-clade hosts and horizontal transfer of incompatibility loci between distantly related Wolbachia"
+  authors: BS Cooper, D Vanderpool, WR Conner, DR Matute, M Turelli
+  journal: "bioRxiv"
+  year: 2019
+  link:
+    url: "https://www.biorxiv.org/content/10.1101/551036.full"
+    display: "Available"
+
+- title: "Gene exchange between two divergent species of the fungal human pathogen, Coccidioides"
+  authors: CS Maxwell, K Mattox, DA Turissini, MM Teixeira, BM Barker, DR Matute
+  journal: "Evolution"
+  volume: "73(1)"
+  pages: "42-58"
+  year: 2019
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6430640/"
+    display: "Available"
+
+- title: "Speciation: On the scent of mate discrimination genes"
+  authors: JM Coughlan, DR Matute
+  journal: "Current Biology"
+  volume: "28(24)"
+  pages: "R1389-R1391"
+  year: 2018
+  link:
+    url: "https://www.cell.com/current-biology/fulltext/S0960-9822(18)31456-8"
+    display: "Available"
+
+- title: "Correlated evolution of two copulatory organs via a single cis-regulatory nucleotide change"
+  authors: O Nagy, I Nuez, R Savisaar, AE Peluffo, A Yassin, M Lang, DL Stern, DR Matute, JR David
+  journal: "Current Biology"
+  volume: "28(21)"
+  pages: "3450-3457"
+  year: 2018
+  link:
+    url: "https://www.cell.com/current-biology/pdfExtended/S0960-9822(18)31131-X"
+    display: "Available"
+
+- title: "Recent invasion of P transposable element into Drosophila yakuba"
+  authors: A Serrato-Capuchina, S Zhang, W Martin, D Peede, E Earley, DR Matute
+  journal: "bioRxiv"
+  year: 2018
+  link:
+    url: "https://www.biorxiv.org/content/10.1101/453829.full"
+    display: "Available"
+
+- title: "Genetic divergence and the number of hybridizing species affect the path to homoploid hybrid speciation"
+  authors: AA Comeault, DR Matute
+  journal: "Proceedings of the National Academy of Sciences"
+  volume: "115(39)"
+  pages: "9761-9766"
+  year: 2018
+  link:
+    url: "https://www.pnas.org/doi/pdf/10.1073/pnas.1809685115"
+    display: "Available"
+
+- title: "A maladaptive combination of traits contributes to the maintenance of a Drosophila hybrid zone"
+  authors: BS Cooper, A Sedghifar, WT Nash, AA Comeault, DR Matute
+  journal: "Current Biology"
+  volume: "28(18)"
+  pages: "2940-2947"
+  year: 2018
+  link:
+    url: "https://www.cell.com/current-biology/pdfExtended/S0960-9822(18)30904-7"
+    display: "Available"
+
+- title: "Recent admixture between species of the fungal pathogen Histoplasma"
+  authors: CS Maxwell, VE Sepulveda, DA Turissini, WE Goldman, DR Matute
+  journal: "Evolution Letters"
+  volume: "2(3)"
+  pages: "210-220"
+  year: 2018
+  link:
+    url: "https://academic.oup.com/evlett/article-pdf/2/3/210/49857216/evlett0210.pdf"
+    display: "Available"
+
+- title: "The role of transposable elements in speciation"
+  authors: A Serrato-Capuchina, DR Matute
+  journal: "Genes"
+  volume: "9(5)"
+  pages: "254"
+  year: 2018
+  link:
+    url: "https://www.mdpi.com/2073-4425/9/5/254"
+    display: "Available"
+
+- title: "Supervised machine learning reveals introgressed loci in the genomes of Drosophila simulans and D. sechellia"
+  authors: DR Schrider, J Ayroles, DR Matute, AD Kern
+  journal: "PLoS Genetics"
+  volume: "14(4)"
+  pages: "e1007341"
+  year: 2018
+  link:
+    url: "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1007341&type=printable"
+    display: "Available"
+
+- title: "When genes move, genomes collide"
+  authors: Y Brandvain, DR Matute
+  journal: "PLoS Genetics"
+  volume: "14(4)"
+  pages: "e1007286"
+  year: 2018
+  link:
+    url: "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1007286&type=printable"
+    display: "Available"
+
+- title: "The rate of evolution of postmating-prezygotic reproductive isolation in Drosophila"
+  authors: DA Turissini, JA McGirr, SS Patel, JR David, DR Matute
+  journal: "Molecular Biology and Evolution"
+  volume: "35(2)"
+  pages: "312-334"
+  year: 2018
+  link:
+    url: "https://academic.oup.com/mbe/article-pdf/35/2/312/24367542/msx271.pdf"
+    display: "Available"
+
+- title: "Species boundaries in the human pathogen Paracoccidioides"
+  authors: DA Turissini, OM Gomez, MM Teixeira, JG McEwen, DR Matute
+  journal: "Fungal Genetics and Biology"
+  volume: "106"
+  pages: "9-25"
+  year: 2017
+  link:
+    url: "https://www.sciencedirect.com/science/article/pii/S1087184517300932"
+    display: "Available"
+
+- title: "Wolbachia in the Drosophila yakuba complex: pervasive frequency variation and weak cytoplasmic incompatibility, but no apparent effect on reproductive isolation"
+  authors: BS Cooper, PS Ginsberg, M Turelli, DR Matute
+  journal: "Genetics"
+  volume: "205(1)"
+  pages: "333-351"
+  year: 2017
+  link:
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5223512/"
+    display: "Available"
+
+- title: "Revisiting an old riddle: what determines genetic diversity levels within species?"
+  authors: EM Leffler, K Bullaughey, DR Matute, WK Meyer, L Segurel, A Venkat, P Andolfatto, M Przeworski
+  journal: "PLoS Biology"
+  volume: "10(9)"
+  pages: "e1001388"
+  year: 2012
+  link:
+    url: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pbio.1001388&type=printable"
+    display: "Available"
+
+- title: "Reinforcement can overcome gene flow during speciation in Drosophila"
+  authors: DR Matute
+  journal: "Current Biology"
+  volume: "20(24)"
+  pages: "2229-2233"
+  year: 2010
+  link:
+    url: "https://www.cell.com/current-biology/fulltext/S0960-9822(10)01485-5"
+    display: "Available"
+
+- title: "A test of the snowball theory for the rate of evolution of hybrid incompatibilities"
+  authors: DR Matute, IA Butler, DA Turissini, JA Coyne
+  journal: "Science"
+  volume: "329(5998)"
+  pages: "1518-1521"
+  year: 2010
+  link:
+    url: "https://www.researchgate.net/profile/Ian-Butler-3/publication/46288444_A_Test_of_the_Snowball_Theory_for_the_Rate_of_Evolution_of_Hybrid_Incompatibilities/links/5b561cde45851507a7c3fa61/A-Test-of-the-Snowball-Theory-for-the-Rate-of-Evolution-of-Hybrid-Incompatibilities.pdf"
+    display: "Available"
+
+- title: "Intrinsic reproductive isolation between two sister species of Drosophila"
+  authors: DR Matute, JA Coyne
+  journal: "Evolution"
+  volume: "64(4)"
+  pages: "903-920"
+  year: 2010
+  link:
+    url: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.2009.00879.x"
+    display: "Available"
+
+- title: "Reinforcement of gametic isolation in Drosophila"
+  authors: DR Matute
+  journal: "PLoS Biology"
+  volume: "8(3)"
+  pages: "e1000341"
+  year: 2010
+  link:
+    url: "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1000341&type=printable"
+    display: "Available"
+
+- title: "Little effect of the tan locus on pigmentation in female hybrids between Drosophila santomea and D. melanogaster"
+  authors: DR Matute, IA Butler, JA Coyne
+  journal: "Cell"
+  volume: "139(6)"
+  pages: "1180-1188"
+  year: 2009
+  link:
+    url: "https://www.cell.com/fulltext/S0092-8674%2809%2901359-2"
+    display: "Available"
+
+- title: "Temperature-based extrinsic reproductive isolation in two species of Drosophila"
+  authors: DR Matute, CJ Novak, JA Coyne
+  journal: "Evolution"
+  volume: "63(3)"
+  pages: "595-612"
+  year: 2009
+  link:
+    url: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.2008.00588.x"
+    display: "Available"

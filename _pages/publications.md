@@ -19,13 +19,13 @@ permalink: /publications/
   {% assign pubs = site.data.publist | where: "year", year %}
   <li>
     <input id="accordion{{ year }}" type="checkbox" />
-    <label for="accordion{{ year }}">{{ year }}</label>
+    <label for="accordion{{ year }}">{{ year }}.</label>
     <div>
       {% if pubs.size > 0 %}
         <ul style="margin: 0; padding-left: 1rem;"> 
           {% for publi in pubs %}
             <li style="margin-bottom: 0.5rem;">
-              <strong>{{ publi.title }}</strong><br>
+              <strong>{{ publi.title }}.</strong><br>
               <em>{{ publi.authors }}</em>. {{ publi.journal }}{% if publi.pages %} {{ publi.pages }}{% endif %}.{% if publi.link.url %} <a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>{% endif %}
             </li>
           {% endfor %}

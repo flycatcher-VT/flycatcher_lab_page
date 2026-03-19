@@ -1,23 +1,21 @@
 
 <style>
 ul.jekyllcodex_accordion {position: relative; margin: 1.4rem 0!important; padding-bottom: 0;}
-ul.jekyllcodex_accordion li {border-top: 1px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
+ul.jekyllcodex_accordion li { list-style: none; margin-left: 0;}
 ul.jekyllcodex_accordion li input {display: none;}
 ul.jekyllcodex_accordion li label {font-size: 2.5rem; display: block; cursor: pointer; padding: 0.75rem 2.4rem 0.75rem 0; margin: 0; position: relative;}
 ul.jekyllcodex_accordion li div {
-  display: block;
   max-height: 0;
   overflow: hidden;
   opacity: 0;
   padding-bottom: 0;
-  transition: all 0.35s ease;
+  transition: max-height 0.35s ease, opacity 0.35s ease, padding-bottom 0.35s ease;
 }
 ul.jekyllcodex_accordion li input:checked + label {font-weight: bold; border-bottom: none;}
 ul.jekyllcodex_accordion li input:checked + label + div {
-  max-height: 400px;
+  max-height: 800px;
   opacity: 1;
   padding-bottom: 1.2rem;
-  border-top: none;
 }
 ul.jekyllcodex_accordion li label::before {content: ">"; transform: rotate(90deg);font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.40s ease-in-out;}
 ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(180deg);}

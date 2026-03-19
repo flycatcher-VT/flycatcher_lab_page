@@ -18,7 +18,7 @@ permalink: /publications/
 {% for year in the_years %}
   {% assign pubs = site.data.publist | where: "year", year %}
   <li>
-    <input id="accordion{{ year }}" type="checkbox" />
+    <input id="accordion{{ year }}" type="checkbox" {% if forloop.first %}checked{% endif %} />
     <label for="accordion{{ year }}">{{ year }}</label>
     <div>
       {% if pubs.size > 0 %}

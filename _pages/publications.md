@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-**Preprints are also available on [BioXiv](https://www.biorxiv.org/search/Daniel%252BMatute) and a full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).**
+**A full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en). Preprints are also available on [BioRxiv](https://www.biorxiv.org/search/Daniel%252BMatute)**
 
 {% include accordion.html %}
 

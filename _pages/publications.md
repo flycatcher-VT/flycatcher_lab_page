@@ -25,10 +25,8 @@ permalink: /publications/
         <ul style="margin: 0; padding-left: 1rem;"> 
           {% for publi in pubs %}
             <li style="margin-bottom: 0.5rem;">
-              <strong>{{ publi.title }}</strong><br>
-              <em>{{ publi.authors }}</em><br>
-              {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank">{{ publi.journal }}</a>{% else %}{{ publi.journal }}{% endif %}{% if publi.pages %}: {{ publi.pages }}{% endif %}<br>
-              {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>{% endif %}
+              <strong>{{ publi.title }}</strong> <em>{{ publi.journal }}{% if publi.pages %} {{ publi.pages }}{% endif %}</em>{% if publi.link.url %} <a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>{% endif %}<br>
+              <em>{{ publi.authors }}</em>
             </li>
           {% endfor %}
         </ul>
@@ -39,4 +37,3 @@ permalink: /publications/
   </li>
 {% endfor %}
 </ul>
-

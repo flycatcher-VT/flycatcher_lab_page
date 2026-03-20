@@ -11,6 +11,8 @@ permalink: /publications/
 
 **A full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en). Preprints are also available on [BioRxiv](https://www.biorxiv.org/search/Daniel%252BMatute).**
 
+
+<!-- accordion menu markdown architecture -->
 {% include accordion.html %}
 
 {% assign the_years = "2026,2025,2024,2023,2022,2021,2020,2019,2018,2017" | split: "," %}

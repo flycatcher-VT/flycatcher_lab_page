@@ -28,7 +28,8 @@ and allows your code to be shared and collaborated on remotely.
 Now that you understand what github is, you will need a way to interact with your repository locally. There are many ways to do this,
 but for our purposes I would recommend using Visual Studio Code (VScode) or the online github editing feature. If you are comfortable with 
 coding tools, or are not afraid to learn some standard computer science tools, follow the next steps to access the lab page through VScode.
-If you arent comfortable in coding experience, then skip to the #WEB BROWSER# section below.
+If you arent comfortable in coding experience, you can edit files directly on github. On the Repo, navigate to the file you wish to change,
+and there should be an edit file button (pencil) in the top right corner of the file.
 
 VScode is an Integrated Development Environment, which in short means a program that lets you write and test code in one location. Generally,
 IDEs are pretty complex and take years to completely learn, and VScode is no exception. however, It is fairly intuitive and hopefully once you are 

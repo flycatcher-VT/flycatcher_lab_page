@@ -8,18 +8,6 @@ img { margin-bottom: 24px;
     border-radius:2%;
 }
 
-.img-responsive:hover {
-    transform: scale(1.6);
-    transition: transform 0.3s ease;
-    position: relative;
-    z-index: 10;
-}
-
-.img-responsive img.is-grown {
-  /* Image stays grown after click, use the same scale value as :hover */
-  transform: scale(1.6); 
-}
-
 
 body {
 	padding-top: 70px;

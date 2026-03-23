@@ -10,7 +10,10 @@ permalink: /team_2/
 
 ***images good?***
 
-***image sizing good***
+***image sizing good?***
+
+
+***Vacancies message?***
 
 <!--  
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
@@ -20,6 +23,7 @@ permalink: /team_2/
 [master and bachelor students](#master-and-bachelor-students),
 [lab visitors](#lab-visitors)
 -->
+
 Jump to [Staff](#staff), [Undergraduate Researchers ](#undergraduate-researchers),  [Post Doctoral Alumni](#post-doctoral-alumni).
 
 ## Staff

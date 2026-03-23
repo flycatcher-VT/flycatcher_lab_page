@@ -18,7 +18,9 @@ We aren't just limited to *Drosophila*; Our lab also explores the **evolution of
 
 ***News column?***
 
-***Lab Github and domain name***
+***Lab Github and domain name?***
+
+***funding transparency message?***
 
 <!-- Edit this if you would like to change the number of slides of the slides on the homepage-->
  <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > 
@@ -55,10 +57,10 @@ We aren't just limited to *Drosophila*; Our lab also explores the **evolution of
   </a>
 </div> 
 
-If you would like to contact us, please email ***contact info ***. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
+If you would like to contact us, please email ***contact info***. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
 
 
-*associated groups images ; tri-mmptp, DGRP, ???*
+***associated groups images ; tri-mmptp, DGRP, NIH ???***
  <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">

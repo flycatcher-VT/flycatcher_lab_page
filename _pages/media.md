@@ -12,7 +12,7 @@ permalink: /media/
 ## Lectures and Interviews ##
 
 #### On the evolution of postzygotic isolation during divergence :[(EcoEvoSeminars Youtube Channel)](https://www.youtube.com/@EvoEco):
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6Czy7x-ooqA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Czy7x-ooqA?si=Im52pegNCwRKaRhn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)

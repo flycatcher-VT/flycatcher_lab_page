@@ -139,7 +139,7 @@ Jump to [Staff](#staff), [Undergraduate Researchers ](#undergraduate-researchers
 
 ***include years in lab?***
 
-***include past post baccs?***
+***include past post baccs?/techs***
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}

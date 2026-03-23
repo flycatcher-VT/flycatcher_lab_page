@@ -29,7 +29,7 @@ Jump to [Staff](#staff), [Undergraduate Researchers ](#undergraduate-researchers
 ## Staff
 {% for member in site.data.team_members_2 %}
 <div style="overflow: hidden; margin-bottom: 1.2em; padding-bottom: 0.5em; border-bottom: 1px solid #ddd;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; width: 145px; max-width: 25%; margin-right: 1rem; margin-bottom: 0.5rem;" alt="{{ member.name }}" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img" style="float: left; width: 145px; max-width: 25%; margin-right: 1rem; margin-bottom: 0.5rem;" alt="{{ member.name }}" />
   <h4 style="margin-top: 0;">{{ member.name }}</h4>
   <i>{{ member.info }}</i><br/>
   {% if member.email %}<a href="mailto:{{ member.email }}">{{ member.email }}</a><br/>{% endif %}
@@ -113,7 +113,7 @@ Jump to [Staff](#staff), [Undergraduate Researchers ](#undergraduate-researchers
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -151,7 +151,7 @@ Jump to [Staff](#staff), [Undergraduate Researchers ](#undergraduate-researchers
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> {{ member.info }}</i>
   <ul style="overflow: hidden">

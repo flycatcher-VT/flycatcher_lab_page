@@ -8,6 +8,10 @@ permalink: /team_2/
 
 # Group Members
 
+***images good?***
+
+***image sizing good***
+
 <!--  
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
@@ -128,6 +132,10 @@ Jump to [Staff](#staff), [Undergraduate Researchers ](#undergraduate-researchers
 
 
 ## Post Doctoral Alumni
+
+***include years in lab?***
+
+***include past post baccs?***
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}

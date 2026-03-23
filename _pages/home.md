@@ -14,6 +14,12 @@ Our lab is interested in evolutionary processes that contribute to **speciation*
 
 We aren't just limited to *Drosophila*; Our lab also explores the **evolution of virulence** within dimorphic fungal pathogens through many model and non-model organisms such as *Histoplasma*, *Paracoccidioides*, and *Sporothrix* among others. 
 
+***space for more images, interesting figures, group lab photos?***
+
+***News column?***
+
+***Lab Github and domain name***
+
 <!-- Edit this if you would like to change the number of slides of the slides on the homepage-->
  <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > 
     <ol class="carousel-indicators">
@@ -49,15 +55,15 @@ We aren't just limited to *Drosophila*; Our lab also explores the **evolution of
   </a>
 </div> 
 
-If you would like to contact us, please email *fill in*. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
+If you would like to contact us, please email ***contact info ***. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
 
 
-
-<!-- <figure class="fifth">
+*associated groups images ; tri-mmptp, DGRP, ???*
+ <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
 </figure>
- -->
+ 

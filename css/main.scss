@@ -15,6 +15,7 @@ img-responsive { margin-bottom: 24px;
 
 .img-responsive:hover {
   transform: scale(1.4); /* This makes it grow */
+  transition: transform 0.3s ease; /* Smooth transition */
 }
 
 

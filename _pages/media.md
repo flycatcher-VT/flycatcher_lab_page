@@ -28,14 +28,6 @@ permalink: /media/
 <div class="col-sm-3 clearfix img-container">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/{{ pic.image }}" 
        class="img-responsive" width="95%" />
-
-  <!-- Gradient layer -->
-  <div class="img-gradient"></div>
-
-  <!-- Caption text -->
-  <div class="top-left">
-    {{ pic.caption }}
-  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

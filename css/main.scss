@@ -2,6 +2,7 @@
 ---
 
 @import "bootstrap";
+
 .img-container {
   position: relative;
   float: left;
@@ -23,68 +24,12 @@
   z-index: 10;
 }
 
-/* Gradient layer (top quarter only) */
-.img-gradient {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 95%;
-  height: 25%;
-
-  border-top-left-radius: 2%;
-  border-top-right-radius: 2%;
-
-  background: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.6) 0%,
-    rgba(0, 0, 0, 0.3) 50%,
-    rgba(0, 0, 0, 0) 100%
-  );
-
-  opacity: 0;
-  transition: opacity 0.3s ease;
-  pointer-events: none;
-}
-
-/* Your provided positioning + styling */
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-
-  font-family: Arial, sans-serif;
-  color: white;
-  font-size: 14px;
-  text-align: left;
-
-  opacity: 0;
-  transition: opacity 0.3s ease;
-
-  z-index: 15;
-}
-
-/* Show on hover */
-.img-container:hover .img-gradient,
-.img-container:hover .top-left {
-  opacity: 1;
-}
-
-/* Keep expanded item above others */
-.img-container:hover {
-  z-index: 20;
-}
-
-
 /* Top navigation bar color settings */
 
 
 html {
   overflow-y: scroll;
 }
-
-
-
-
 
 /* background bar color */
 .navbar-default {

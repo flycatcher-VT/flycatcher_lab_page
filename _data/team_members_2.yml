@@ -1,16 +1,24 @@
-- name: Daniel Matute
+- name: Dr. Daniel Matute
   photo: Daniel.png
   info: Professor
   email: dmatute@email.unc.edu
-  bio : "short bio describing education, research interests, and other relevant information about the member and their role in the lab."
+  bio : "Dr. Daniel Matute is head of the Matute Lab and a professor in the Department of Biology at the University of North Carolina at Chapel Hill.
+    He has dedicated his career to understanding the genetic origins of speciation and genetic diversity. He recieved his BSc in Microbiology and Biology from Los Andes University in Bogota, Colombia.
+    He continued his education under Dr. Jerry Coyne at the University of Chicago, where he earned his PhD in Evolutionary Biology pursuing the factors that promoted and discouraged speciation in a natural hybrid population of Drosophila. 
+    After recieving his PhD, he completed a postdoctoral fellowship in the lab of Dr. Molly Przeworski at the University of Chicago, where he studied the genetic basis of adaptation in natural populations. 
+    He joined the faculty at UNC-Chapel Hill in 2014, where his lab continues to produce high impact research and researchers."
 
-- name: Victoria Sepulveda 
+
+- name: Dr. Victoria Sepulveda 
   photo: Vicky.jpg
   info: Senior Research Associate
   email: vsepulve@email.unc.edu
-  bio : "short bio describing education, research interests, and other relevant information about the member and their role in the lab."
+  bio : "Vicky studies how virulence strategies have evolved in dimorphic fungal pathogens, enabling strains to become pathogenic, 
+    cause diverse disease manifestations and induce a wide range of host immune responses. She received her BSc in Microbiology from Los Andes University in Bogota, Colombia. 
+    She earned her PhD in Molecular Microbiology and Microbial Pathogenesis from Washington University in St. Louis, where she worked in the lab of Bill Goldman. 
+    She continued her Postdoctoral training in Microbiology and Immunology in the Goldman lab at UNC-Chapel Hill."
 
-- name: Patrick Kelly 
+- name: Dr. Patrick Kelly 
   photo: patrick.jpg
   info: Postdoctoral Researcher 
   email: patk@email.unc.edu
@@ -34,5 +42,5 @@
   email: okompath@email.unc.edu
   bio : "Oliver is a computational biologist and bioinformatician whose primary focus in the lab is improving genomic resources for fungal pathogens. He is also responsible for managing 
    the lab's data infrastructure and providing support for data transfers between collaborators. He recieved his BSc in Biology and Minor in Computer Science from Wake Forest University  
-   in 2024 and is looking to further his education through a PhD position at Virginia Tech in the fall of 2026. In his free time, Oliver enjoys hiking, cooking, and making music."
+   in 2024, and is looking to further his education through a PhD position at Virginia Tech in the fall of 2026. In his free time, Oliver enjoys hiking, cooking, and making music."
    

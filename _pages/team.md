@@ -17,7 +17,8 @@ permalink: /team/
 ***Vacancies message?***
 
 
- <!--   **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ <!--   
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 # page links to team member sections, insert/edit if there are changes
 [administrative support](#administrative-support),

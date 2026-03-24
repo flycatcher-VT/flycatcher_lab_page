@@ -17,14 +17,12 @@ permalink: /team/
 ***Vacancies message?***
 
 
- <!--   
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<!--  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 # page links to team member sections, insert/edit if there are changes
 [administrative support](#administrative-support),
 [master and bachelor students](#master-and-bachelor-students),
-[lab visitors](#lab-visitors)
--->
+[lab visitors](#lab-visitors) -->
 
 Jump to [Staff](#staff), [Undergraduate Researchers ](#undergraduate-researchers),  [Post Doctoral Alumni](#post-doctoral-alumni).
 

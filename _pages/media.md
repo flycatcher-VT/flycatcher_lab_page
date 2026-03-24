@@ -33,7 +33,7 @@ permalink: /media/
   <div class="img-gradient"></div>
 
   <!-- Caption text -->
-  <div class="img-text">
+  <div class="top-left">
     {{ pic.caption }}
   </div>
 </div>

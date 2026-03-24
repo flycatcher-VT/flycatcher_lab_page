@@ -21,9 +21,7 @@
 /* Gradient overlay */
 .img-container::after {
   content: "";
-  margin-bottom: 24px;
-  margin-top: 17px;
-  border-radius: 2%;
+
   position: absolute;
   top: 0;
   left: 0;

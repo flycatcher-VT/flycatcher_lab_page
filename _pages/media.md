@@ -25,8 +25,13 @@ permalink: /media/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<div class="col-sm-3 clearfix img-container">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/{{ pic.image }}" 
+       class="img-responsive" width="95%" />
+  
+  <div class="img-caption">
+    {{ pic.caption }}
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

@@ -18,10 +18,32 @@
   transition: transform 0.3s ease;
 }
 
-/* Zoom */
+/* Gradient overlay (hidden by default) */
+.img-container::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 25%; /* top 1/4 */
+  background: linear-gradient(to bottom, rgba(0,0,0,0.6), transparent);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  transform-origin: top;
+}
+
+/* Zoom image */
 .img-container:hover .img-responsive {
   transform: scale(1.4);
   z-index: 10;
+}
+
+/* Show + scale gradient with image */
+.img-container:hover::after {
+  opacity: 1;
+  transform: scale(1.4);
+  z-index: 11;
 }
 
 /* Top navigation bar color settings */

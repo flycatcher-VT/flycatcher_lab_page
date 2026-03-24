@@ -2,74 +2,76 @@
 ---
 
 @import "bootstrap";
-
 .img-container {
   position: relative;
   float: left;
   overflow: visible;
 }
 
-/* Image styling */
+/* Image base */
 .img-responsive {
   margin-bottom: 24px;
   margin-top: 17px;
   border-radius: 2%;
-  transition: transform 0.3s ease;
   display: block;
+  transition: transform 0.3s ease;
 }
 
-/* Zoom effect */
+/* Zoom on hover */
 .img-container:hover .img-responsive {
   transform: scale(1.4);
   z-index: 10;
-
-    background: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.75) 0%,
-    rgba(0, 0, 0, 0.4) 25%,
-    rgba(0, 0, 0, 0.15) 50%,
-    rgba(0, 0, 0, 0) 75%
-  );
 }
 
-/* Gradient overlay across ENTIRE image */
-.img-container::after {
-  content: "";
+/* Gradient layer (top 1/4 only) */
+.img-gradient {
   position: absolute;
   top: 0;
   left: 0;
-  width: 133%;
-  height: 140%;
+  width: 95%;
+  height: 25%;
 
-  border-radius: 2%;
+  border-top-left-radius: 2%;
+  border-top-right-radius: 2%;
 
-
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.6) 0%,
+    rgba(0, 0, 0, 0.3) 50%,
+    rgba(0, 0, 0, 0) 100%
+  );
 
   opacity: 0;
   transition: opacity 0.3s ease;
   pointer-events: none;
 }
 
-/* Caption (no background anymore) */
-.img-caption {
+/* Caption text */
+.img-text {
   position: absolute;
   top: 10px;
   left: 10px;
 
   font-family: Arial, sans-serif;
   color: white;
-  font-size: 10px;
+  font-size: 14px;
   text-align: left;
 
   opacity: 0;
   transition: opacity 0.3s ease;
 
-  z-index: 15; /* above gradient */
+  z-index: 15;
 }
 
-/* Show caption on hover */
-.img-container:hover .img-caption {
-  opacity: 0;
+/* Show layers on hover */
+.img-container:hover .img-gradient,
+.img-container:hover .img-text {
+  opacity: 1;
+}
+
+/* Keep expanded item above others */
+.img-container:hover {
+  z-index: 20;
 }
 
 

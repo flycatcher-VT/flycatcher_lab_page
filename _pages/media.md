@@ -25,7 +25,7 @@ permalink: /media/
 <div class="row">
 {% endif %}
 
-div class="col-sm-3 clearfix img-container">
+<div class="col-sm-3 clearfix img-container">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/{{ pic.image }}" 
        class="img-responsive" width="95%" />
 

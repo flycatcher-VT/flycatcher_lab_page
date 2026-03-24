@@ -28,7 +28,6 @@ permalink: /media/
 <div class="col-sm-3 clearfix img-container">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/{{ pic.image }}" 
        class="img-responsive" width="95%" />
-       <div class="img-text">{{ pic.caption }}</div>
 </div>
 
 

@@ -26,13 +26,7 @@ What are the genetic components contributing to speciation? What does diversity 
 
 Alongside fruit flies, we are heavily interested in how species boundaries form in organisms that have complex biology such as **Fungi**. Fungi do not follow typical "rules" of biology that are seen in other animals/organisms; they often have complex life histories with multiple stages, they can have variable numbers of chromosomes, and they can reproduce sexually and asexually within the species. Understanding the dynamics of speciation in fungi is especially important, since **pathogenic species can rapidly evolve when isolated in hosts**. Fungal diseases are often difficult to combat due to their biology. We can use our knowledge of evolutionary patterns and processes to determine **when, where, and what virulence factors formed and exist in the genome**. We have found that the *Paracoccidioides* and *Histoplasma* complexes are both comprised of multiple diverged species ([Turissini et al](https://www.sciencedirect.com/science/article/pii/S1087184517300932). 2017,  [Sepulveda et al](https://journals.asm.org/doi/full/10.1128/mbio.01339-17). 2017). We are also in the process of improving genomic resources for non-model species such as *Sporothrix* and *Blastomyces* (manuscripts coming soon!!).
 
-**Genomic resources** *paracocc paper, sporo paper, histoplasma TE paper, DGRP paper, drosphila phylogeny paper* 
 
-
-
-
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 
 

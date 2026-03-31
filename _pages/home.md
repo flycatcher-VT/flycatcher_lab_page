@@ -62,6 +62,6 @@ If you would like to contact us, please email ***contact info***. If you would l
 
 ***associated groups images ; tri-mmptp, NIH ???***
  <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/unc_bio.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/slider/unc_bio.png" style="width: 130px">
 </figure>
  

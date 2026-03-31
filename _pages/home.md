@@ -60,7 +60,7 @@ We aren't just limited to *Drosophila*; Our lab also explores the **evolution of
 If you would like to contact us, please email ***contact info***. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
 
 
-***associated groups images ; tri-mmptp, NIH ???***
+We are associated with the Chapel Hill Department of Biology, the Duke Tri Molecular Mycology and Pathogenesis Training Program, and we recieve funding from the National Institute of Health. 
  <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/slider/unc_bio.png" style="width: 130px">
     <img src="{{ site.url }}{{ site.baseurl }}images/slider/NIH_Master_Logo_Vertical_2Color.png" style="width: 130px">

@@ -60,12 +60,8 @@ We aren't just limited to *Drosophila*; Our lab also explores the **evolution of
 If you would like to contact us, please email ***contact info***. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
 
 
-***associated groups images ; tri-mmptp, DGRP, NIH ???***
+***associated groups images ; tri-mmptp, NIH ???***
  <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/unc_bio.png" style="width: 130px">
 </figure>
  

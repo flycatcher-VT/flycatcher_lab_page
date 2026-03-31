@@ -60,12 +60,5 @@ We are associated with the Chapel Hill Department of Biology, the Duke Tri Molec
 </figure>
  
 
- 
- <!--   ***space for more images, interesting figures, group lab photos?***
 
-***News column?***
-
-***Lab Github and domain name?***
-
-***funding transparency message?***  -->
  

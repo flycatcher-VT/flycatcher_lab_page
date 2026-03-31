@@ -14,14 +14,6 @@ Our lab is interested in evolutionary processes that contribute to **speciation*
 
 We aren't just limited to *Drosophila*; Our lab also explores the **evolution of virulence** within dimorphic fungal pathogens through many model and non-model organisms such as *Histoplasma*, *Paracoccidioides*, and *Sporothrix* among others. 
 
-***space for more images, interesting figures, group lab photos?***
-
-***News column?***
-
-***Lab Github and domain name?***
-
-***funding transparency message?***
-
 <!-- Edit this if you would like to change the number of slides of the slides on the homepage-->
  <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > 
     <ol class="carousel-indicators">
@@ -68,4 +60,13 @@ We are associated with the Chapel Hill Department of Biology, the Duke Tri Molec
 </figure>
  
 
+ <!-- 
+ ***space for more images, interesting figures, group lab photos?***
+
+***News column?***
+
+***Lab Github and domain name?***
+
+***funding transparency message?***
  
+ -->

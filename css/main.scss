@@ -31,6 +31,17 @@ html {
   overflow-y: scroll;
 }
 
+/* text for main page link in header */
+.navbar-default .navbar-brand {
+  color: #dadada;
+}
+
+/* hover text for main page link*/
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #e5751f;
+}
+
 /* background bar color */
 .navbar-default {
   background-color: #861F41; 
@@ -41,15 +52,7 @@ html {
   color: #dadada; 
 }
 
-/* text for main page link in header */
-.navbar .navbar-brand li a {
-  color: #dadada;
-}
 
-/* hover text for main page link*/
-.navbar .navbar-brand li a:hover {
-  color: #e5751f;
-}
 
 /* hover text for linked pages */
 .navbar-default .navbar-nav li a:hover {

@@ -38,17 +38,17 @@ html {
 
 /* text for linked pages */
 .navbar-default .navbar-nav li a {
-  color: #E5751F; 
+  color: #dadada; 
 }
 
 /* hover text for linked pages */
 .navbar-default .navbar-nav li a:hover {
-  color: #dadada;
+  color: #e5751f;
 }
 
 /* Navbar toggle icon color */
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #E5751F; /* Black for unhovered state */
+  background-color: #dadada; /* white for unhovered state */
 }
 
 /* Navbar toggle button outline color */

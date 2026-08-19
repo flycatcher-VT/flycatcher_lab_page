@@ -41,6 +41,16 @@ html {
   color: #dadada; 
 }
 
+/* text for main page link in header */
+.navbar-default .navbar-brand li a {
+  color: #dadada;
+}
+
+/* hover text for main page link*/
+.navbar-default .navbar-brand li a:hover {
+  color: #e5751f;
+}
+
 /* hover text for linked pages */
 .navbar-default .navbar-nav li a:hover {
   color: #e5751f;

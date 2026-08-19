@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Matute Lab at UNC Chapel Hill."
+excerpt: "flycatcher Lab at Virginia Tech."
 sitemap: false
 permalink: /allnews.html
 ---

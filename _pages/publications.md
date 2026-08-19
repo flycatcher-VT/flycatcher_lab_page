@@ -1,7 +1,7 @@
 ---
-title: "Matute Lab - Publications"
+title: "Flycatcher Lab - Publications"
 layout: gridlay
-excerpt: "Matute Lab -- Publications."
+excerpt: "Flycatcher Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

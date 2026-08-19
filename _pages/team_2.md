@@ -1,7 +1,7 @@
 ---
-title: "Matute Lab - Team"
+title: "Flycatcher Lab - Team"
 layout: gridlay
-excerpt: "Matute Lab: Team members"
+excerpt: "Flycatcher Lab: Team members"
 sitemap: false
 permalink: /team_2/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Matute Lab - Media"
+title: "Flycatcher Lab - Media"
 layout: piclay
-excerpt: "Matute Lab -- Media"
+excerpt: "flycatcher Lab -- Media"
 permalink: /media/
 ---
 

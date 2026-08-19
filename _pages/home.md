@@ -1,7 +1,7 @@
 ---
-title: "Matute Lab - Home"
+title: "Flycatcher Lab - Home"
 layout: homelay
-excerpt: "Matute Lab at UNC Chapel Hill."
+excerpt: "flycatcher Lab at Virginia Tech."
 sitemap: false
 permalink: /
 ---

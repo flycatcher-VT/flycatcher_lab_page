@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "flycatcher Lab at Virginia Tech."
+excerpt: "Flycatcher Lab at Virginia Tech."
 sitemap: false
 permalink: /allnews.html
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Flycatcher Lab - Home"
 layout: homelay
-excerpt: "flycatcher Lab at Virginia Tech."
+excerpt: "Flycatcher Lab at Virginia Tech."
 sitemap: false
 permalink: /
 ---

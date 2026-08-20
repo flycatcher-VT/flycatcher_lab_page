@@ -1,14 +1,14 @@
 ---
-title: "Matute Lab - Research"
+title: "Flycatcher Lab - Research"
 layout: textlay
-excerpt: "Matute Lab -- Research"
+excerpt: "Flycatcher Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
  
 # Research
 
-Our research objective in the Matute lab is to explore factors contributing to speciation,such as reproductive barriers/isolation, introgression, and hybrid incompatibilities. To do so, we combine a mixture of quantitative fieldwork, classical genetics, and  to collect genetic data from our flies and fungal strains, which is then utilized through extensive bioinformatic analyses such as variant calling ,tree reconstruction, selective sweep finding, and much more.
+
 
 Here are some projects that we currently work on:
 

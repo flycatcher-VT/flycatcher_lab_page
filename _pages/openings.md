@@ -14,11 +14,11 @@ We thank you for your interest in our lab, but we are currently at capacity. Fee
 
 ### Applications for PhD and Postdoc positions
 
-*fill with instructions from Daniel*
+*fill with instructions from Valentina*
 
 ### Other Lab Positions 
 
-*fill with instructions from Daniel*
+*fill with instructions from Valentina*
 
 <!-- 
 <figure>

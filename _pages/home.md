@@ -6,13 +6,12 @@ sitemap: false
 permalink: /
 ---
 
-**This is the lab page for the Daniel Matute lab at UNC Chapel Hill. It is currently under construction, so please bear with us :)**
+**This is the lab page for the Flycatcher lab at Virginia Tech. It is currently under construction, so please bear with us :)**
 
-We are an evolutionary biology lab located in the Genome Sciences Building at the [University of North Carolina at Chapel Hill](https://bio.unc.edu/). 
+We are an evolutionary biology and behavior lab located in Derring Hall at [Virginia Tech](https://www.vt.edu/index.html). 
 
-Our lab is interested in evolutionary processes that contribute to **speciation**. Specifically, we use the genus *Drosophila* (fruit flies) to better understand how **hybrid incompatibilities** accumulate, and how these contribute to the development of species boundaries through inviable offspring. This often involves closely testing different combinations of fly lineages, extracting DNA, and using Next Generation Sequencing to generate genomic data for use in bioinformatic and computational analyses.
+**blurb on flycatcher lab**. 
 
-We aren't just limited to *Drosophila*; Our lab also explores the **evolution of virulence** within dimorphic fungal pathogens through many model and non-model organisms such as *Histoplasma*, *Paracoccidioides*, and *Sporothrix* among others. 
 
 <!-- Edit this if you would like to change the number of slides of the slides on the homepage-->
  <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > 
@@ -52,7 +51,7 @@ We aren't just limited to *Drosophila*; Our lab also explores the **evolution of
 If you would like to contact us, please email ***contact info***. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
 
 
-We are associated with the Chapel Hill Department of Biology, the Duke Tri Molecular Mycology and Pathogenesis Training Program, and we recieve funding from the National Institute of Health. 
+We are associated with **organizations we are associated with**. 
  <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/slider/unc_bio.png" style="width: 130px">
     <img src="{{ site.url }}{{ site.baseurl }}images/slider/NIH_Master_Logo_Vertical_2Color.png" style="width: 130px">

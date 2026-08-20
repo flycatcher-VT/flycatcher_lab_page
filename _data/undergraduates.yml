@@ -1,17 +1,7 @@
-- name: Carson Tenold
-  photo: carson.png
-  info: Senior undergraduate - Biology Major
-  email: 
-  number_educ: 0
+#- name: Carson Tenold
+#  photo: carson.png
+#  info: Senior undergraduate - Biology Major
+#  email: 
+#  number_educ: 0
 
-- name: Cade Tenold
-  photo: cade.png
-  info: Senior undergraduate - Exercise and Sports Science Major
-  email: 
-  number_educ: 0
 
-- name: Mary Kate Frisbie
-  photo: marykate.jpg
-  info: Senior undergraduate - Biology and Environmental Science double Major 
-  email: 
-  number_educ: 0

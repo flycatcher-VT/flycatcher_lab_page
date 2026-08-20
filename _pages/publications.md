@@ -9,13 +9,8 @@ permalink: /publications/
 
 # Publications
 
-**A full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en). Preprints are also available on [BioRxiv](https://www.biorxiv.org/search/Daniel%252BMatute).**
+**A full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=QCVlwlsAAAAJ&hl=es).**
 
-***highlight specific papers?*** 
-
-***include papers from before 2017?***
-
-***Include BioRxiv in accordion menu?***
 
 <!-- accordion menu markdown architecture -->
 {% include accordion.html %}

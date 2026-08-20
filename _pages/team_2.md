@@ -17,7 +17,7 @@ permalink: /team_2/
 [lab visitors](#lab-visitors) -->
 
 
-Jump to [Senior Members](#senior-members), [Students] (#students), [Undergraduate Researchers ](#undergraduate-researchers).
+Jump to [Senior Members](#senior-members), [Students](#students), [Undergraduate Researchers ](#undergraduate-researchers).
 
 ## Senior Members
 {% for member in site.data.team_members_2 %}

@@ -1,18 +1,37 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+
+
+
+- name: Martín Pérez 
+  photo: tincho.jpg
+  info: PhD Student, Speciation and Hybridization 
+  email: 
+  bio : "I am interested in understanding the underlying mechanisms promoting speciation and population differentiation. 
+    Currently, I am studying the impact and influence of contact and hybrid zones on the genetic and morphological diversity in widespread 
+    passerine species distributed across the Nearctic and the Neotropics. I’m also interested in plumages, molt strategies, population genomics, 
+    field ornithology, and the life history of Neotropical birds. Co-advised with Juan Ignacio Areta."
+
+- name: Matthew Armstrong 
+  photo: matthew.jpg
+  info: PhD Student, Behavior 
+  email: 
+  bio : "I am interested in the behavioral ecology of birds as well as the evolution of their behavior.
+   I am looking forward to studying behavioral differences among populations with varying migratory strategies during my PhD. 
+   In addition to spending my free time climbing and photographing wildlife, I am also passionate about species conservation and previously studied 
+   genetic signatures of hybridization in the rare North American gray-headed chickadee."
+
 
 - name: Oliver Kompathoum 
   photo: oliver.jpg
   info: PhD Student, Behavior and Morphology
   email: okompath35@vt.edu
-  bio : "Oliver is a First Year PhD student who is interested in understanding the evolutionary relationship between behavior and morphology using migratory birds as a study system. 
-    He received his BSc in Biology from Wake Forest University, where he worked with colubrid cognition and behavior, and furthered his research experience 
-    in the Daniel Matute Lab at UNC Chapel Hill as a bioinformatician studying population genetics of fungal pathogens. Outside of the lab, he enjoys the outdoors, table top games, and making music."
+  bio : "I am motivated to understand the evolutionary relationship between behavior and morphology, and I intend to study these topics through the lense of migration,
+    aggression, and mating behavior. I am also interested in understanding how behavioral/morphological traits present across clades of organisms, and how we can use computational biology and 
+    bioinformatics to understand the evolution of these traits. Outside of the lab, I enjoy the outdoors, tabletop games, and making music."
+
+- name: Kiersten Link 
+  photo: Kiersten.jpg
+  info: Ms Student, Diet Ecology 
+  email: 
+  bio : 
+
 

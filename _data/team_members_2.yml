@@ -1,0 +1,20 @@
+- name: Valentina Gómez-Bahamón 
+  photo: valentina.jpg
+  info: Principal Investigator 
+  email: valentinagb@vt.edu
+  bio : "I am an Assistant Professor at the Biological Sciences Department at Virginia Tech. I am also a research affiliate at The Field Museum of Natural History,
+   Chicago, and at SELVA: Research for conservation in the Neotropics, Colombia. I study how the evolution of behavioral strategies can drive population divergence 
+   and promote a cascade of correlated evolutionary processes that can enhance speciation. My research has focused primarily on switches among migratory and 
+   non-migratory behavior in birds. I am interested in understanding the drivers of these switches and the consequences to phenotypic evolution, 
+   speciation and the propensity of extinction under past and current environmental conditions."
+
+- name: Jeremy Summers 
+  photo: jeremy.jpg
+  info: Post Doctoral Associate 
+  email: jtsummers@vt.edu
+  bio : "I study how variation in the environment and individual fitness over space and time ultimately shape population dynamics and structure, 
+   and even entire species ranges. I have used this mechanistic and multidimensional approach to research how birds respond to anthropogenic landscape change. 
+   I am interested in why some populations can persist despite increasing isolation and decreasing genetic diversity, or why some species can utilize entirely 
+   new habitats to expand their ranges while others decline."
+ 
+

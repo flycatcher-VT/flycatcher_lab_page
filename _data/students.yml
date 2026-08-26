@@ -1,10 +1,8 @@
 
-
-
 - name: Martín Pérez 
   photo: tincho.jpg
   info: PhD Student, Speciation and Hybridization 
-  email: 
+  email: meperez@vt.edu
   bio : "I am interested in understanding the underlying mechanisms promoting speciation and population differentiation. 
     Currently, I am studying the impact and influence of contact and hybrid zones on the genetic and morphological diversity in widespread 
     passerine species distributed across the Nearctic and the Neotropics. I’m also interested in plumages, molt strategies, population genomics, 
@@ -13,7 +11,7 @@
 - name: Matthew Armstrong 
   photo: matthew.jpg
   info: PhD Student, Behavior 
-  email: 
+  email: matthewra@vt.edu
   bio : "I am interested in the behavioral ecology of birds as well as the evolution of their behavior.
    I am looking forward to studying behavioral differences among populations with varying migratory strategies during my PhD. 
    In addition to spending my free time climbing and photographing wildlife, I am also passionate about species conservation and previously studied 
@@ -31,7 +29,7 @@
 - name: Kiersten Link 
   photo: Kiersten.jpg
   info: Ms Student, Diet Ecology 
-  email: 
+  email: kierstenl@vt.edu
   bio : 
 
 

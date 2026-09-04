@@ -8,9 +8,7 @@ permalink: /vacancies
 
 # Openings
 
-**We are not currently looking for new members!**
-
-We thank you for your interest in our lab, but we are currently at capacity. Feel free to check this page periodically for updates.
+*fill with instructions from Valentina*
 
 ### Applications for PhD and Postdoc positions
 
